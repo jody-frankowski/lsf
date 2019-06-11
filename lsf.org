@@ -5823,29 +5823,23 @@ qui lui appartient (son, sa), qui lui appartiennent (ses) (à lui, à elle) (ex.
 </video>
 #+END_EXPORT
 
-*** âge (n.m.)
+*** Âge
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic (and reversed card)
 :ANKI_NOTE_ID: 1550246144728
+:SOURCE: https://signsuisse.sgb-fss.ch/fr/lexikon/g/age/
 :END:
 
 **** Front
-âge (n.m.)
-temps de vie écoulé, pour un homme.
+Âge
+
+période (durée) écoulée depuis la naissance.
 
 **** Back
 #+BEGIN_EXPORT html
 <video autoplay='' loop='' preload='metadata' class='noresize' muted='' style='width: 100%; display: inline-block; height: 100%;'>
-<source src='http://www.elix-lsf.fr/IMG/mp4/age_nm_1_1_temps.mp4?1354620748'>
-<source src='https://web.archive.org//web/20190208160118im_/http://www.elix-lsf.fr/IMG/mp4/age_nm_1_1_temps.mp4?1354620748'>
-</video>
-<video autoplay='' loop='' preload='metadata' class='noresize' muted='' style='width: 100%; display: inline-block; height: 100%;'>
-<source src='http://www.elix-lsf.fr/IMG/mp4/age_nm_1_1.mp4?1351264924'>
-<source src='https://web.archive.org//web/20190208160118im_/http://www.elix-lsf.fr/IMG/mp4/age_nm_1_1.mp4?1351264924'>
-</video>
-<video autoplay='' loop='' preload='metadata' class='noresize' muted='' style='width: 100%; display: inline-block; height: 100%;'>
-<source src='http://www.elix-lsf.fr/IMG/mp4/age_nm_1_2.mp4?1350739046'>
-<source src='https://web.archive.org//web/20190208160118im_/http://www.elix-lsf.fr/IMG/mp4/age_nm_1_2.mp4?1350739046'>
+<source src='https://signsuisse.sgb-fss.ch/fileadmin/signsuisse_ressources/videos/0599A12F-E04C-FB4D-C3888C35D7FC50B1.mp4'>
+<source src='https://web.archive.org/web/20190611121658im_/https://signsuisse.sgb-fss.ch/fileadmin/signsuisse_ressources/videos/0599A12F-E04C-FB4D-C3888C35D7FC50B1.mp4'>
 </video>
 #+END_EXPORT
 
