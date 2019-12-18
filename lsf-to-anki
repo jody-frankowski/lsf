@@ -31,6 +31,14 @@ ORG_ANKI_TEMPLATE="""
 
 class Sign:
     def __init__(self):
+        # TODO Replace with expression?
+        # self.examples
+        # self.illustrations
+        # self.photos
+        # homogenize categories across websites?
+        # self.category = /!\ signssuise has a "verb" category.
+        # self.type = expression | word | verb | adverb
+        # self.dialect = only seen on signsuisse, eg. VD,FR,GE,JU,NE,VS
         self.word = ""
         self.definition = ""
         # Sign videos rendered as html with two sources: the original and an
