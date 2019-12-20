@@ -18,10 +18,113 @@ since the 2 second case seems to have only a few candidates, it might work for
 only a little while, and we should jump on the other technique after.
 Words only first > words + sentences with words unknown > words + more sentences ?
 
+One full deck + one deck by week? TODO Test full deck order.
+/!\ How to change learning path while not breaking existing ones on Anki?
+
+Grammar >> Practice/examples should be best. Examples imply knowing all the
+words in the phrase?
+The following might depend entirely on the available examples on signsuisse!
+Rationale: From most to least useful
+Missing: Common rules, like negation/questions...
+Order:
+Week 1:
+- Salutations
+- Alphabet (the sooner, the more links the student can do with other signs eg.
+  soeur/bleu)
+- Name Yourself
+- Who am I? Who are you?
+- Pronoms
+- Mal/Entendant/Sourd/LSF
+- Be aware of where your hands and fingers are, and where they come from and go
+  to. (BP)
+- Interrogative (can be learned from the examples? are there any questions on
+  signsuisse?)
+
+Week X;
+- Formules Politesses
+- Oui/Non
+- Describe objects ? No cards for those yet!
+- Quantities (Un peu/Beaucoup)
+- Numbers >> Age
+
+Week X:
+- Expressions interrogatives ?
+- Sentiments
+- Parce que/pour/afin que/peut etre/Ou
+- Vouloir/Avoir/Savoir/Ne pas avoir
+- Bien/Bon/Mal/Mauvais
+
+Week X:
+- Expressions interrogatives
+- Adjectifs Possessifs
+- Family
+- Describe family link
+
+Week X:
+- Where I live. (before what i do because the vocabulary is much more common for
+  everyone)
+- Buildings/Places
+- Movements
+- Transports
+
+Week X:
+- Weather
+- Temps/Jours
+
+Week X:
+- Jobs
+- What I do
+- What my family does
+
+Week X:
+- Other activities: Eating/Sleeping/Playing/Partying/Evening Activities
+
+Goal at that point: Being able to describe a typical day of your life
+
+Week X:
+- Colors
+- Animals >> Colors ? (not that useful)
+- Nature
+- Where animals live?
+
+LAST: How to learn an unknown sign?
+
+Vocab target: 600 Words?
+Examples: Less than 600 because not all words have examples!
+
+Source:
 What about the alphabet?
 The numbers >> signsuisse has some!
 
 Learning path >> json ?
+```
+day 1:
+    word* to learn. link to data json? if yes how?
+    example* to learn. link to data json? if yes how?
+    best practice* ?
+    explanation*
+    exercise*
+
+day X:
+    word*
+    examples*
+
+
+[
+    {
+        day: 0,
+        [
+            word1,
+            ...
+        ],
+        [
+            example1,
+            ...
+        ]
+    },
+    ...
+]
+```
 
 ## Website scrap
 
@@ -33,6 +136,7 @@ urls examples:
 Errors:
 - https://signsuisse.sgb-fss.ch/fr/lexikon/g/test-3/ : `Catégorie: ,En général`
 - https://signsuisse.sgb-fss.ch/fr/lexikon/g/ancien-testament/ : `Catégorie: ,Religion`
+- https://signsuisse.sgb-fss.ch/index.php\?id\=32\&tx_issignsuisselexikon_anzeige\[action\]\=ajaxsearch\&tx_issignsuisselexikon_anzeige\[controller\]\=Gebaerden\&type\=6666\&tx_issignsuisselexikon_anzeige\[stufe\]\=1\&tx_issignsuisselexikon_anzeige\[categories\]\=10000\&L\=1 SQL error
 
 Two ways to crawl:
 - `https://signsuisse.sgb-fss.ch/index.php?id=32&tx_issignsuisselexikon_anzeige[action]=ajaxsearch&tx_issignsuisselexikon_anzeige[controller]=Gebaerden&type=6666&tx_issignsuisselexikon_anzeige[stufe]=2&tx_issignsuisselexikon_anzeige[categories]=6876&L=1`
@@ -118,11 +222,18 @@ What about homonymes:
 - https://signsuisse.sgb-fss.ch/fr/lexikon/g/frais-2/
 - https://signsuisse.sgb-fss.ch/fr/lexikon/g/frais-3/
 
+What about hints? (eg. soeur > S)
+
 Choose a license. One that forbids commercial use?
 
 LSF Video explaining
 Donate button
 Contributions welcome for other sign languages
+
+Disclaimer: Not a teacher. Open to suggestions. Open an issue to tell me if bad
+or good, what worked or what didn't.
+
+Delete wip branch on gh/gl
 
 ## Old Words
 
