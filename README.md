@@ -208,8 +208,7 @@ Crawl
 
 ## TODO
 
-Show illustration or photo when video offline? (signsuisse doesn't always have on
-e)
+Show illustration or photo when video offline? (signsuisse doesn't always have one)
 Add fetch/scrap date, maybe even video/text hash?
 Add archive.is
 Add https://signsuisse.sgb-fss.ch/fr/lexikon/g/alphabet/
