@@ -234,6 +234,8 @@ or good, what worked or what didn't.
 
 Delete wip branch on gh/gl
 
+Global cards viewer? Useful when you are searching a particular sign video.
+
 ## Old Words
 
 ```
