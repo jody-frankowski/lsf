@@ -236,6 +236,8 @@ Delete wip branch on gh/gl
 
 Global cards viewer? Useful when you are searching a particular sign video.
 
+Check https://blog.fluent-forever.com/base-vocabulary-list/
+
 ## Old Words
 
 ```
