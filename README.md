@@ -160,7 +160,8 @@ crawl(url):
                 crawl(url)
 ```
 
-
+When extracting an element, use two different css selectors and print a warning when they don't
+extract the same element?
 
 ## Steps
 
