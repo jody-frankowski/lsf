@@ -45,7 +45,7 @@ Week X;
 - Oui/Non
 - Describe objects ? No cards for those yet!
 - Quantities (Un peu/Beaucoup)
-- Numbers >> Age
+- Numbers (Individual cards and packages (eg. 1,2,5,6,10,11,16,20,21,30,31,50,51,60,61))>> Age
 
 Week X:
 - Expressions interrogatives ?
