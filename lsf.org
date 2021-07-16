@@ -2055,8 +2055,8 @@ Formule brève d'accueil ou d'adieu.
 **** S'il vous plaît - s'il te plaît - svp - stp
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic (and reversed card)
-:ANKI_NOTE_ID: 1553975660710
 :SOURCE: https://signsuisse.sgb-fss.ch/fr/lexikon/g/sil-vous-plait-sil-te-plait/
+:ANKI_NOTE_ID: 1626430905678
 :END:
 
 ***** Front
@@ -3575,7 +3575,7 @@ amas de vapeur d'eau condensée en fines gouttelettes qui est suspendu dans l'ai
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic (and reversed card)
 :SOURCE: https://www.elix-lsf.fr/spip.php?page=signes&id_article=216058&lang=fr
-:ANKI_NOTE_ID: 1554021012290
+:ANKI_NOTE_ID: 1626430915505
 :END:
 
 ***** Front
