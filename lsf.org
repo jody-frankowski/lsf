@@ -473,7 +473,7 @@ ensemble des membres d'une même lignée.
 ***** Back
 #+BEGIN_EXPORT html
 <video autoplay='' loop='' preload='metadata' class='noresize' muted='' style='width: 100%; display: inline-block; height: 100%;'>
-<source src='http://www.elix-lsf.fr/IMG/mp4/famille_sc_1_1.mp4?1351083346'>
+<source src='https://www.elix-lsf.fr/IMG/mp4/famille_sc_1_1.mp4?1351083346'>
 <source src='https://web.archive.org//web/20190208160338im_/http://www.elix-lsf.fr/IMG/mp4/famille_sc_1_1.mp4?1351083346'>
 </video>
 #+END_EXPORT
@@ -548,7 +548,7 @@ père d'un des grands-parents; bisaïeul.
 ***** Back
 #+BEGIN_EXPORT html
 <video autoplay='' loop='' preload='metadata' class='noresize' muted='' style='width: 100%; display: inline-block; height: 100%;'>
-<source src='http://www.elix-lsf.fr/IMG/mp4/00259.mp4?1372171862'>
+<source src='https://www.elix-lsf.fr/IMG/mp4/00259.mp4?1372171862'>
 <source src='https://web.archive.org//web/20190208154704im_/http://www.elix-lsf.fr/IMG/mp4/00259.mp4?1372171862'>
 </video>
 #+END_EXPORT
@@ -566,7 +566,7 @@ père du père ou père de la mère de quelqu'un.
 ***** Back
 #+BEGIN_EXPORT html
 <video autoplay='' loop='' preload='metadata' class='noresize' muted='' style='width: 100%; display: inline-block; height: 100%;'>
-<source src='http://www.elix-lsf.fr/IMG/mp4/57jt1w2k6lqiltjdbqt1-encoded.mp4?1361389106'>
+<source src='https://www.elix-lsf.fr/IMG/mp4/57jt1w2k6lqiltjdbqt1-encoded.mp4?1361389106'>
 <source src='https://web.archive.org//web/20190215163353im_/http://www.elix-lsf.fr/IMG/mp4/57jt1w2k6lqiltjdbqt1-encoded.mp4?1361389106'>
 </video>
 #+END_EXPORT
@@ -584,7 +584,7 @@ pour des enfants issus d'un premier mariage, le mari actuel de leur mère.
 ***** Back
 #+BEGIN_EXPORT html
 <video autoplay='' loop='' preload='metadata' class='noresize' muted='' style='width: 100%; display: inline-block; height: 100%;'>
-<source src='http://www.elix-lsf.fr/IMG/mp4/00260-2.mp4?1372172630'>
+<source src='https://www.elix-lsf.fr/IMG/mp4/00260-2.mp4?1372172630'>
 <source src='https://web.archive.org//web/20190208154706im_/http://www.elix-lsf.fr/IMG/mp4/00260-2.mp4?1372172630'>
 </video>
 #+END_EXPORT
@@ -593,7 +593,7 @@ pour des enfants issus d'un premier mariage, le mari actuel de leur mère.
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic (and reversed card)
 :ANKI_NOTE_ID: 1550245999953
-:SOURCE: http://www.sematos.eu/lsf-p-p%C3%A8re-7433.html
+:SOURCE: https://www.sematos.eu/lsf-p-p%C3%A8re-7433.html
 :END:
 
 ***** Front
@@ -603,7 +603,7 @@ Père (substantif)
 ***** Back
 #+BEGIN_EXPORT html
 <video autoplay='' loop='' preload='metadata' class='noresize' muted='' style='width: 100%; display: inline-block; height: 100%;'>
-<source src='http://static.sematos.eu/videos/lsf/webm/aZFmaVslashIods%3D.webm'>
+<source src='https://static.sematos.eu/videos/lsf/webm/aZFmaVslashIods%3D.webm'>
 <source src='https://web.archive.org/web.archive.org/web/20190330165903im_/http://static.sematos.eu/videos/lsf/webm/aZFmaVslashIods%3D.webm'>
 </video>
 #+END_EXPORT
@@ -659,7 +659,7 @@ femme d'un fils.
 ***** Back
 #+BEGIN_EXPORT html
 <video autoplay='' loop='' preload='metadata' class='noresize' muted='' style='width: 100%; display: inline-block; height: 100%;'>
-<source src='http://www.elix-lsf.fr/IMG/mp4/belle-fille_nf_1_1.mp4?1354124545'>
+<source src='https://www.elix-lsf.fr/IMG/mp4/belle-fille_nf_1_1.mp4?1354124545'>
 <source src='https://web.archive.org//web/20190208154714im_/http://www.elix-lsf.fr/IMG/mp4/belle-fille_nf_1_1.mp4?1354124545'>
 </video>
 #+END_EXPORT
@@ -677,7 +677,7 @@ personne de sexe masculin, par rapport à ses parents.
 ***** Back
 #+BEGIN_EXPORT html
 <video autoplay='' loop='' preload='metadata' class='noresize' muted='' style='width: 100%; display: inline-block; height: 100%;'>
-<source src='http://www.elix-lsf.fr/IMG/mp4/fils_nm_1_1.mp4?1381307941'>
+<source src='https://www.elix-lsf.fr/IMG/mp4/fils_nm_1_1.mp4?1381307941'>
 <source src='https://web.archive.org//web/20190208154729im_/http://www.elix-lsf.fr/IMG/mp4/fils_nm_1_1.mp4?1381307941'>
 </video>
 #+END_EXPORT
@@ -695,7 +695,7 @@ mari de sa fille, gendre.
 ***** Back
 #+BEGIN_EXPORT html
 <video autoplay='' loop='' preload='metadata' class='noresize' muted='' style='width: 100%; display: inline-block; height: 100%;'>
-<source src='http://www.elix-lsf.fr/IMG/mp4/beau-fils_nm_2_1.mp4?1354124543'>
+<source src='https://www.elix-lsf.fr/IMG/mp4/beau-fils_nm_2_1.mp4?1354124543'>
 <source src='https://web.archive.org//web/20190208154727im_/http://www.elix-lsf.fr/IMG/mp4/beau-fils_nm_2_1.mp4?1354124543'>
 </video>
 #+END_EXPORT
@@ -713,7 +713,7 @@ personne issue de l'oncle ou de la tante.
 ***** Back
 #+BEGIN_EXPORT html
 <video autoplay='' loop='' preload='metadata' class='noresize' muted='' style='width: 100%; display: inline-block; height: 100%;'>
-<source src='http://www.elix-lsf.fr/IMG/mp4/cousin_nm_2_1.mp4?1381307067'>
+<source src='https://www.elix-lsf.fr/IMG/mp4/cousin_nm_2_1.mp4?1381307067'>
 <source src='https://web.archive.org//web/20190208154806im_/http://www.elix-lsf.fr/IMG/mp4/cousin_nm_2_1.mp4?1381307067'>
 </video>
 #+END_EXPORT
@@ -731,7 +731,7 @@ fils du frère, de la sœur; du beau-frère ou de la belle-sœur.
 ***** Back
 #+BEGIN_EXPORT html
 <video autoplay='' loop='' preload='metadata' class='noresize' muted='' style='width: 100%; display: inline-block; height: 100%;'>
-<source src='http://www.elix-lsf.fr/IMG/mp4/neveu_nm_1_1.mp4?1350689824'>
+<source src='https://www.elix-lsf.fr/IMG/mp4/neveu_nm_1_1.mp4?1350689824'>
 <source src='https://web.archive.org//web/20190208154809im_/http://www.elix-lsf.fr/IMG/mp4/neveu_nm_1_1.mp4?1350689824'>
 </video>
 #+END_EXPORT
@@ -749,7 +749,7 @@ sœur d'un des deux parents ou femme d'un oncle.
 ***** Back
 #+BEGIN_EXPORT html
 <video autoplay='' loop='' preload='metadata' class='noresize' muted='' style='width: 100%; display: inline-block; height: 100%;'>
-<source src='http://www.elix-lsf.fr/IMG/mp4/tante_nf_1_1.mp4?1350688348'>
+<source src='https://www.elix-lsf.fr/IMG/mp4/tante_nf_1_1.mp4?1350688348'>
 <source src='https://web.archive.org//web/20190208154811im_/http://www.elix-lsf.fr/IMG/mp4/tante_nf_1_1.mp4?1350688348'>
 </video>
 #+END_EXPORT
@@ -767,11 +767,11 @@ le frère du père ou de la mère, et aussi le mari de la tante.
 ***** Back
 #+BEGIN_EXPORT html
 <video autoplay='' loop='' preload='metadata' class='noresize' muted='' style='width: 100%; display: inline-block; height: 100%;'>
-<source src='http://www.elix-lsf.fr/IMG/mp4/oncle_nm_1_2.mp4?1354273492'>
+<source src='https://www.elix-lsf.fr/IMG/mp4/oncle_nm_1_2.mp4?1354273492'>
 <source src='https://web.archive.org//web/20190208154814im_/http://www.elix-lsf.fr/IMG/mp4/oncle_nm_1_2.mp4?1354273492'>
 </video>
 <video autoplay='' loop='' preload='metadata' class='noresize' muted='' style='width: 100%; display: inline-block; height: 100%;'>
-<source src='http://www.elix-lsf.fr/IMG/mp4/oncle_nm_1_1.mp4?1351264823'>
+<source src='https://www.elix-lsf.fr/IMG/mp4/oncle_nm_1_1.mp4?1351264823'>
 <source src='https://web.archive.org//web/20190208154814im_/http://www.elix-lsf.fr/IMG/mp4/oncle_nm_1_1.mp4?1351264823'>
 </video>
 #+END_EXPORT
@@ -789,7 +789,7 @@ mari de la sœur ou de la belle-sœur.
 ***** Back
 #+BEGIN_EXPORT html
 <video autoplay='' loop='' preload='metadata' class='noresize' muted='' style='width: 100%; display: inline-block; height: 100%;'>
-<source src='http://www.elix-lsf.fr/IMG/mp4/beau-frere_nm_1_1.mp4?1354124544'>
+<source src='https://www.elix-lsf.fr/IMG/mp4/beau-frere_nm_1_1.mp4?1354124544'>
 <source src='https://web.archive.org//web/20190208154816im_/http://www.elix-lsf.fr/IMG/mp4/beau-frere_nm_1_1.mp4?1354124544'>
 </video>
 #+END_EXPORT
@@ -807,7 +807,7 @@ frère, seulement par le père ou par la mère.
 ***** Back
 #+BEGIN_EXPORT html
 <video autoplay='' loop='' preload='metadata' class='noresize' muted='' style='width: 100%; display: inline-block; height: 100%;'>
-<source src='http://www.elix-lsf.fr/IMG/mp4/00245-2.mp4?1372160085'>
+<source src='https://www.elix-lsf.fr/IMG/mp4/00245-2.mp4?1372160085'>
 <source src='https://web.archive.org//web/20190208154820im_/http://www.elix-lsf.fr/IMG/mp4/00245-2.mp4?1372160085'>
 </video>
 #+END_EXPORT
@@ -825,7 +825,7 @@ celui qui est né du même père et de la même mère qu'un autre.
 ***** Back
 #+BEGIN_EXPORT html
 <video autoplay='' loop='' preload='metadata' class='noresize' muted='' style='width: 100%; display: inline-block; height: 100%;'>
-<source src='http://www.elix-lsf.fr/IMG/mp4/frere_nm_1_1.mp4?1350689516'>
+<source src='https://www.elix-lsf.fr/IMG/mp4/frere_nm_1_1.mp4?1350689516'>
 <source src='https://web.archive.org//web/20190208154825im_/http://www.elix-lsf.fr/IMG/mp4/frere_nm_1_1.mp4?1350689516'>
 </video>
 #+END_EXPORT
@@ -843,7 +843,7 @@ personne de sexe féminin née des mêmes parents qu'un frère ou une autre sœu
 ***** Back
 #+BEGIN_EXPORT html
 <video autoplay='' loop='' preload='metadata' class='noresize' muted='' style='width: 100%; display: inline-block; height: 100%;'>
-<source src='http://www.elix-lsf.fr/IMG/mp4/soeur_x42ywsnwtshsqatiqwsu-encoded.mp4?1361392003'>
+<source src='https://www.elix-lsf.fr/IMG/mp4/soeur_x42ywsnwtshsqatiqwsu-encoded.mp4?1361392003'>
 <source src='https://web.archive.org//web/20190215163355im_/http://www.elix-lsf.fr/IMG/mp4/soeur_x42ywsnwtshsqatiqwsu-encoded.mp4?1361392003'>
 </video>
 #+END_EXPORT
@@ -861,7 +861,7 @@ mère d'un des grands-parents; bisaïeule.
 ***** Back
 #+BEGIN_EXPORT html
 <video autoplay='' loop='' preload='metadata' class='noresize' muted='' style='width: 100%; display: inline-block; height: 100%;'>
-<source src='http://www.elix-lsf.fr/IMG/mp4/arrieregrandmere.mp4?1373543386'>
+<source src='https://www.elix-lsf.fr/IMG/mp4/arrieregrandmere.mp4?1373543386'>
 <source src='https://web.archive.org//web/20190208154651im_/http://www.elix-lsf.fr/IMG/mp4/arrieregrandmere.mp4?1373543386'>
 </video>
 #+END_EXPORT
@@ -899,7 +899,7 @@ mère du père ou de la mère de quelqu'un.
 ***** Back
 #+BEGIN_EXPORT html
 <video autoplay='' loop='' preload='metadata' class='noresize' muted='' style='width: 100%; display: inline-block; height: 100%;'>
-<source src='http://www.elix-lsf.fr/IMG/mp4/grand_mere.mp4?1406812421'>
+<source src='https://www.elix-lsf.fr/IMG/mp4/grand_mere.mp4?1406812421'>
 <source src='https://web.archive.org//web/20190208154658im_/http://www.elix-lsf.fr/IMG/mp4/grand_mere.mp4?1406812421'>
 </video>
 #+END_EXPORT
@@ -917,7 +917,7 @@ femme qui a mis au monde un ou des enfants.
 ***** Back
 #+BEGIN_EXPORT html
 <video autoplay='' loop='' preload='metadata' class='noresize' muted='' style='width: 100%; display: inline-block; height: 100%;'>
-<source src='http://www.elix-lsf.fr/IMG/mp4/mere_nf_1_1.mp4?1350739090'>
+<source src='https://www.elix-lsf.fr/IMG/mp4/mere_nf_1_1.mp4?1350739090'>
 <source src='https://web.archive.org//web/20190208154702im_/http://www.elix-lsf.fr/IMG/mp4/mere_nf_1_1.mp4?1350739090'>
 </video>
 #+END_EXPORT
@@ -935,11 +935,11 @@ enfant en bas âge qui n'est pas encore sevré.
 ***** Back
 #+BEGIN_EXPORT html
 <video autoplay='' loop='' preload='metadata' class='noresize' muted='' style='width: 100%; display: inline-block; height: 100%;'>
-<source src='http://www.elix-lsf.fr/IMG/mp4/bebe_nm_1_2.mp4?1394617229'>
+<source src='https://www.elix-lsf.fr/IMG/mp4/bebe_nm_1_2.mp4?1394617229'>
 <source src='https://web.archive.org//web/20190208223648im_/http://www.elix-lsf.fr/IMG/mp4/bebe_nm_1_2.mp4?1394617229'>
 </video>
 <video autoplay='' loop='' preload='metadata' class='noresize' muted='' style='width: 100%; display: inline-block; height: 100%;'>
-<source src='http://www.elix-lsf.fr/IMG/mp4/0a458b40-fedd-2f17-331e-791073a83936-encoded.mp4?1410564994'>
+<source src='https://www.elix-lsf.fr/IMG/mp4/0a458b40-fedd-2f17-331e-791073a83936-encoded.mp4?1410564994'>
 <source src='https://web.archive.org//web/20190208223648im_/http://www.elix-lsf.fr/IMG/mp4/0a458b40-fedd-2f17-331e-791073a83936-encoded.mp4?1410564994'>
 </video>
 #+END_EXPORT
@@ -957,7 +957,7 @@ Enfant (n.)
 ***** Back
 #+BEGIN_EXPORT html
 <video autoplay='' loop='' preload='metadata' class='noresize' muted='' style='width: 100%; display: inline-block; height: 100%;'>
-<source src='http://www.elix-lsf.fr/IMG/mp4/enfant-2.mp4?1406794135'>
+<source src='https://www.elix-lsf.fr/IMG/mp4/enfant-2.mp4?1406794135'>
 <source src='https://web.archive.org//web/20190208223651im_/http://www.elix-lsf.fr/IMG/mp4/enfant-2.mp4?1406794135'>
 </video>
 #+END_EXPORT
@@ -994,11 +994,11 @@ nouveau-né de sexe masculin.
 ***** Back
 #+BEGIN_EXPORT html
 <video autoplay='' loop='' preload='metadata' class='noresize' muted='' style='width: 100%; display: inline-block; height: 100%;'>
-<source src='http://www.elix-lsf.fr/IMG/mp4/garcon.mp4?1383747171'>
+<source src='https://www.elix-lsf.fr/IMG/mp4/garcon.mp4?1383747171'>
 <source src='https://web.archive.org//web/20190208223709im_/http://www.elix-lsf.fr/IMG/mp4/garcon.mp4?1383747171'>
 </video>
 <video autoplay='' loop='' preload='metadata' class='noresize' muted='' style='width: 100%; display: inline-block; height: 100%;'>
-<source src='http://www.elix-lsf.fr/IMG/mp4/1da3cc0c-4d0d-1fa0-b849-7908aa9bcdfa-encoded.mp4?1410571471'>
+<source src='https://www.elix-lsf.fr/IMG/mp4/1da3cc0c-4d0d-1fa0-b849-7908aa9bcdfa-encoded.mp4?1410571471'>
 <source src='https://web.archive.org//web/20190208223709im_/http://www.elix-lsf.fr/IMG/mp4/1da3cc0c-4d0d-1fa0-b849-7908aa9bcdfa-encoded.mp4?1410571471'>
 </video>
 #+END_EXPORT
@@ -1007,7 +1007,7 @@ nouveau-né de sexe masculin.
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic (and reversed card)
 :ANKI_NOTE_ID: 1550246020737
-:SOURCE: http://www.sematos.eu/lsf-p-parents-7280.html
+:SOURCE: https://www.sematos.eu/lsf-p-parents-7280.html
 :END:
 
 ***** Front
@@ -1017,7 +1017,7 @@ Parents (substantif)
 ***** Back
 #+BEGIN_EXPORT html
 <video autoplay='' loop='' preload='metadata' class='noresize' muted='' style='width: 100%; display: inline-block; height: 100%;'>
-<source src='http://static.sematos.eu/videos/lsf/webm/aJlrZlslashIods%3D.webm'>
+<source src='https://static.sematos.eu/videos/lsf/webm/aJlrZlslashIods%3D.webm'>
 <source src='https://web.archive.org/web.archive.org/web/20190330170404im_/http://static.sematos.eu/videos/lsf/webm/aJlrZlslashIods%3D.webm'>
 </video>
 #+END_EXPORT
@@ -1034,11 +1034,11 @@ jeune fille ou garçon à l'âge de l'adolescence.
 ***** Back
 #+BEGIN_EXPORT html
 <video autoplay='' loop='' preload='metadata' class='noresize' muted='' style='width: 100%; display: inline-block; height: 100%;'>
-<source src='http://www.elix-lsf.fr/IMG/mp4/adolescent_nm_1_2.mp4?1394617228'>
+<source src='https://www.elix-lsf.fr/IMG/mp4/adolescent_nm_1_2.mp4?1394617228'>
 <source src='https://web.archive.org//web/20190208224208im_/http://www.elix-lsf.fr/IMG/mp4/adolescent_nm_1_2.mp4?1394617228'>
 </video>
 <video autoplay='' loop='' preload='metadata' class='noresize' muted='' style='width: 100%; display: inline-block; height: 100%;'>
-<source src='http://www.elix-lsf.fr/IMG/mp4/adolescent_nm_1_1.mp4?1388679908'>
+<source src='https://www.elix-lsf.fr/IMG/mp4/adolescent_nm_1_1.mp4?1388679908'>
 <source src='https://web.archive.org//web/20190208224208im_/http://www.elix-lsf.fr/IMG/mp4/adolescent_nm_1_1.mp4?1388679908'>
 </video>
 #+END_EXPORT
@@ -1159,7 +1159,7 @@ Végétal qui possède un tronc et qui, dans son plein développement, dépasse 
 **** Branche (substantif)
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic (and reversed card)
-:SOURCE: http://www.sematos.eu/lsf-p-branche-6557-fr.html
+:SOURCE: https://www.sematos.eu/lsf-p-branche-6557-fr.html
 :ANKI_NOTE_ID: 1553975632713
 :END:
 
@@ -1169,7 +1169,7 @@ Branche (substantif)
 ***** Back
 #+BEGIN_EXPORT html
 <video autoplay='' loop='' preload='metadata' class='noresize' muted='' style='width: 100%; display: inline-block; height: 100%;'>
-<source src='http://static.sematos.eu/videos/lsf/webm/aJRlbFslashIods%3D.webm'>
+<source src='https://static.sematos.eu/videos/lsf/webm/aJRlbFslashIods%3D.webm'>
 <source src='https://web.archive.org//web/20190330121331im_/http://static.sematos.eu/videos/lsf/webm/aJRlbFslashIods%3D.webm'>
 </video>
 #+END_EXPORT
@@ -1367,7 +1367,7 @@ Ensemble de petits grains minéraux (quartz) provenant de la désagrégation len
 **** Île (substantif)
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic (and reversed card)
-:SOURCE: http://www.sematos.eu/lsf-p-%C3%AEle-7183.html
+:SOURCE: https://www.sematos.eu/lsf-p-%C3%AEle-7183.html
 :ANKI_NOTE_ID: 1553975644712
 :END:
 
@@ -1378,7 +1378,7 @@ Ensemble de petits grains minéraux (quartz) provenant de la désagrégation len
 ***** Back
 #+BEGIN_EXPORT html
 <video autoplay='' loop='' preload='metadata' class='noresize' muted='' style='width: 100%; display: inline-block; height: 100%;'>
-<source src='http://static.sematos.eu/videos/lsf/webm/aJhra1slashIods%3D.webm'>
+<source src='https://static.sematos.eu/videos/lsf/webm/aJhra1slashIods%3D.webm'>
 <source src='https://web.archive.org//web/20190328162348im_/http://static.sematos.eu/videos/lsf/webm/aJhra1slashIods%3D.webm'>
 </video>
 #+END_EXPORT
@@ -1990,7 +1990,7 @@ salutation à quelqu'un que l'on rencontre la journée.
 ***** Back
 #+BEGIN_EXPORT html
 <video autoplay='' loop='' preload='metadata' class='noresize' muted='' style='width: 100%; display: inline-block; height: 100%;'>
-<source src='http://www.elix-lsf.fr/IMG/mp4/bonjour-3.mp4?1406793755'>
+<source src='https://www.elix-lsf.fr/IMG/mp4/bonjour-3.mp4?1406793755'>
 <source src='https://web.archive.org//web/20190203162814im_/http://www.elix-lsf.fr/IMG/mp4/bonjour-3.mp4?1406793755'>
 </video>
 #+END_EXPORT
@@ -2084,7 +2084,7 @@ parole de remerciement.
 ***** Back
 #+BEGIN_EXPORT html
 <video autoplay='' loop='' preload='metadata' class='noresize' muted='' style='width: 100%; display: inline-block; height: 100%;'>
-<source src='http://www.elix-lsf.fr/IMG/mp4/merci_nm_1_1-2.mp4?1394553501'>
+<source src='https://www.elix-lsf.fr/IMG/mp4/merci_nm_1_1-2.mp4?1394553501'>
 <source src='https://web.archive.org//web/20190203162945im_/http://www.elix-lsf.fr/IMG/mp4/merci_nm_1_1-2.mp4?1394553501'>
 </video>
 #+END_EXPORT
@@ -2216,7 +2216,7 @@ dans quelle mesure.
 ***** Back
 #+BEGIN_EXPORT html
 <video autoplay='' loop='' preload='metadata' class='noresize' muted='' style='width: 100%; display: inline-block; height: 100%;'>
-<source src='http://www.elix-lsf.fr/IMG/mp4/combien_adv_1_1.mp4?1350689318'>
+<source src='https://www.elix-lsf.fr/IMG/mp4/combien_adv_1_1.mp4?1350689318'>
 <source src='https://web.archive.org//web/20190318150541im_/http://www.elix-lsf.fr/IMG/mp4/combien_adv_1_1.mp4?1350689318'>
 </video>
 #+END_EXPORT
@@ -2291,7 +2291,7 @@ deuxième jour de la semaine, après dimanche et avant mardi.
 ***** Back
 #+BEGIN_EXPORT html
 <video autoplay='' loop='' preload='metadata' class='noresize' muted='' style='width: 100%; display: inline-block; height: 100%;'>
-<source src='http://www.elix-lsf.fr/IMG/mp4/lundi.mp4?1383747544'>
+<source src='https://www.elix-lsf.fr/IMG/mp4/lundi.mp4?1383747544'>
 <source src='https://web.archive.org//web/20190214220529im_/http://www.elix-lsf.fr/IMG/mp4/lundi.mp4?1383747544'>
 </video>
 #+END_EXPORT
@@ -2309,7 +2309,7 @@ troisième jour de la semaine, après lundi et avant mercredi.
 ***** Back
 #+BEGIN_EXPORT html
 <video autoplay='' loop='' preload='metadata' class='noresize' muted='' style='width: 100%; display: inline-block; height: 100%;'>
-<source src='http://www.elix-lsf.fr/IMG/mp4/mardi.mp4?1383747525'>
+<source src='https://www.elix-lsf.fr/IMG/mp4/mardi.mp4?1383747525'>
 <source src='https://web.archive.org//web/20190214220532im_/http://www.elix-lsf.fr/IMG/mp4/mardi.mp4?1383747525'>
 </video>
 #+END_EXPORT
@@ -2317,7 +2317,7 @@ troisième jour de la semaine, après lundi et avant mercredi.
 **** Mercredi (substantif)
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic (and reversed card)
-:SOURCE: http://www.sematos.eu/lsf-p-mercredi-5367-fr.html
+:SOURCE: https://www.sematos.eu/lsf-p-mercredi-5367-fr.html
 :ANKI_NOTE_ID: 1553975674711
 :END:
 
@@ -2328,7 +2328,7 @@ Mercredi (substantif)
 ***** Back
 #+BEGIN_EXPORT html
 <video autoplay='' loop='' preload='metadata' class='noresize' muted='' style='width: 100%; display: inline-block; height: 100%;'>
-<source src='http://static.sematos.eu/videos/lsf/webm/Z5Jpa1slashIods%3D.webm'>
+<source src='https://static.sematos.eu/videos/lsf/webm/Z5Jpa1slashIods%3D.webm'>
 <source src='https://web.archive.org//web/20190319140931im_/http://static.sematos.eu/videos/lsf/webm/Z5Jpa1slashIods%3D.webm'>
 </video>
 #+END_EXPORT
@@ -2346,7 +2346,7 @@ cinquième jour de la semaine, après mercredi et avant vendredi.
 ***** Back
 #+BEGIN_EXPORT html
 <video autoplay='' loop='' preload='metadata' class='noresize' muted='' style='width: 100%; display: inline-block; height: 100%;'>
-<source src='http://www.elix-lsf.fr/IMG/mp4/jeudi_nm_1_1.mp4?1350689686'>
+<source src='https://www.elix-lsf.fr/IMG/mp4/jeudi_nm_1_1.mp4?1350689686'>
 <source src='https://web.archive.org//web/20190214220538im_/http://www.elix-lsf.fr/IMG/mp4/jeudi_nm_1_1.mp4?1350689686'>
 </video>
 #+END_EXPORT
@@ -2364,7 +2364,7 @@ sixième jour de la semaine, après jeudi et avant samedi.
 ***** Back
 #+BEGIN_EXPORT html
 <video autoplay='' loop='' preload='metadata' class='noresize' muted='' style='width: 100%; display: inline-block; height: 100%;'>
-<source src='http://www.elix-lsf.fr/IMG/mp4/vendredi.mp4?1383747644'>
+<source src='https://www.elix-lsf.fr/IMG/mp4/vendredi.mp4?1383747644'>
 <source src='https://web.archive.org//web/20190214220540im_/http://www.elix-lsf.fr/IMG/mp4/vendredi.mp4?1383747644'>
 </video>
 #+END_EXPORT
@@ -2382,7 +2382,7 @@ septième jour de la semaine, après vendredi et avant dimanche.
 ***** Back
 #+BEGIN_EXPORT html
 <video autoplay='' loop='' preload='metadata' class='noresize' muted='' style='width: 100%; display: inline-block; height: 100%;'>
-<source src='http://www.elix-lsf.fr/IMG/mp4/samedi_nm_1_1.mp4?1351265020'>
+<source src='https://www.elix-lsf.fr/IMG/mp4/samedi_nm_1_1.mp4?1351265020'>
 <source src='https://web.archive.org//web/20190214220542im_/http://www.elix-lsf.fr/IMG/mp4/samedi_nm_1_1.mp4?1351265020'>
 </video>
 #+END_EXPORT
@@ -2400,7 +2400,7 @@ premier jour de la semaine, après le samedi et avant lundi.
 ***** Back
 #+BEGIN_EXPORT html
 <video autoplay='' loop='' preload='metadata' class='noresize' muted='' style='width: 100%; display: inline-block; height: 100%;'>
-<source src='http://www.elix-lsf.fr/IMG/mp4/dimanche_nm_1_1.mp4?1350689423'>
+<source src='https://www.elix-lsf.fr/IMG/mp4/dimanche_nm_1_1.mp4?1350689423'>
 <source src='https://web.archive.org//web/20190214220545im_/http://www.elix-lsf.fr/IMG/mp4/dimanche_nm_1_1.mp4?1350689423'>
 </video>
 #+END_EXPORT
@@ -2418,7 +2418,7 @@ cycle de sept jours.
 ***** Back
 #+BEGIN_EXPORT html
 <video autoplay='' loop='' preload='metadata' class='noresize' muted='' style='width: 100%; display: inline-block; height: 100%;'>
-<source src='http://www.elix-lsf.fr/IMG/mp4/semaine_nf_1_1.mp4?1350689881'>
+<source src='https://www.elix-lsf.fr/IMG/mp4/semaine_nf_1_1.mp4?1350689881'>
 <source src='https://web.archive.org//web/20190214220549im_/http://www.elix-lsf.fr/IMG/mp4/semaine_nf_1_1.mp4?1350689881'>
 </video>
 #+END_EXPORT
@@ -2473,7 +2473,7 @@ le jour où l'on est, en ce jour.
 ***** Back
 #+BEGIN_EXPORT html
 <video autoplay='' loop='' preload='metadata' class='noresize' muted='' style='width: 100%; display: inline-block; height: 100%;'>
-<source src='http://www.elix-lsf.fr/IMG/mp4/aujourdhui.mp4?1381226411'>
+<source src='https://www.elix-lsf.fr/IMG/mp4/aujourdhui.mp4?1381226411'>
 <source src='https://web.archive.org//web/20190214220821im_/http://www.elix-lsf.fr/IMG/mp4/aujourdhui.mp4?1381226411'>
 </video>
 #+END_EXPORT
@@ -2510,7 +2510,7 @@ durée depuis le début du soir jusqu'au moment où l'on se couche.
 ***** Back
 #+BEGIN_EXPORT html
 <video autoplay='' loop='' preload='metadata' class='noresize' muted='' style='width: 100%; display: inline-block; height: 100%;'>
-<source src='http://www.elix-lsf.fr/IMG/mp4/soiree_nf_1_1.mp4?1350689882'>
+<source src='https://www.elix-lsf.fr/IMG/mp4/soiree_nf_1_1.mp4?1350689882'>
 <source src='https://web.archive.org//web/20190203212850im_/http://www.elix-lsf.fr/IMG/mp4/soiree_nf_1_1.mp4?1350689882'>
 </video>
 #+END_EXPORT
@@ -2547,7 +2547,7 @@ période de temps pendant laquelle la lumière solaire est visible en un lieu.
 ***** Back
 #+BEGIN_EXPORT html
 <video autoplay='' loop='' preload='metadata' class='noresize' muted='' style='width: 100%; display: inline-block; height: 100%;'>
-<source src='http://www.elix-lsf.fr/IMG/mp4/v3gtbv5h9waf4auc4h2s-encoded.mp4?1361389160'>
+<source src='https://www.elix-lsf.fr/IMG/mp4/v3gtbv5h9waf4auc4h2s-encoded.mp4?1361389160'>
 <source src='https://web.archive.org//web/20190215162533im_/http://www.elix-lsf.fr/IMG/mp4/v3gtbv5h9waf4auc4h2s-encoded.mp4?1361389160'>
 </video>
 #+END_EXPORT
@@ -2564,7 +2564,7 @@ espace de temps qui s'écoule depuis le coucher jusqu'au lever du soleil.
 ***** Back
 #+BEGIN_EXPORT html
 <video autoplay='' loop='' preload='metadata' class='noresize' muted='' style='width: 100%; display: inline-block; height: 100%;'>
-<source src='http://www.elix-lsf.fr/IMG/mp4/nuit_nf_1_1.mp4?1350689841'>
+<source src='https://www.elix-lsf.fr/IMG/mp4/nuit_nf_1_1.mp4?1350689841'>
 <source src='https://web.archive.org//web/20190203180930im_/http://www.elix-lsf.fr/IMG/mp4/nuit_nf_1_1.mp4?1350689841'>
 </video>
 #+END_EXPORT
@@ -2582,7 +2582,7 @@ début d'une journée, depuis le lever du soleil jusqu'à midi.
 ***** Back
 #+BEGIN_EXPORT html
 <video autoplay='' loop='' preload='metadata' class='noresize' muted='' style='width: 100%; display: inline-block; height: 100%;'>
-<source src='http://www.elix-lsf.fr/IMG/mp4/matin-2.mp4?1380122270'>
+<source src='https://www.elix-lsf.fr/IMG/mp4/matin-2.mp4?1380122270'>
 <source src='https://web.archive.org//web/20190203212858im_/http://www.elix-lsf.fr/IMG/mp4/matin-2.mp4?1380122270'>
 </video>
 #+END_EXPORT
@@ -2619,7 +2619,7 @@ partie du jour du midi au soir.
 ***** Back
 #+BEGIN_EXPORT html
 <video autoplay='' loop='' preload='metadata' class='noresize' muted='' style='width: 100%; display: inline-block; height: 100%;'>
-<source src='http://www.elix-lsf.fr/IMG/mp4/0uw3sanudgfd0diaqt5z-encoded.mp4?1361388816'>
+<source src='https://www.elix-lsf.fr/IMG/mp4/0uw3sanudgfd0diaqt5z-encoded.mp4?1361388816'>
 <source src='https://web.archive.org//web/20190215163328im_/http://www.elix-lsf.fr/IMG/mp4/0uw3sanudgfd0diaqt5z-encoded.mp4?1361388816'>
 </video>
 #+END_EXPORT
@@ -2770,7 +2770,7 @@ substance qui permet de colorer.
 ***** Back
 #+BEGIN_EXPORT html
 <video autoplay='' loop='' preload='metadata' class='noresize' muted='' style='width: 100%; display: inline-block; height: 100%;'>
-<source src='http://www.elix-lsf.fr/IMG/mp4/couleur.mp4?1383746502'>
+<source src='https://www.elix-lsf.fr/IMG/mp4/couleur.mp4?1383746502'>
 <source src='https://web.archive.org//web/20190203191856im_/http://www.elix-lsf.fr/IMG/mp4/couleur.mp4?1383746502'>
 </video>
 #+END_EXPORT
@@ -2788,7 +2788,7 @@ qui est de la couleur de la neige, du lait, etc. D'une couleur approchante.
 ***** Back
 #+BEGIN_EXPORT html
 <video autoplay='' loop='' preload='metadata' class='noresize' muted='' style='width: 100%; display: inline-block; height: 100%;'>
-<source src='http://www.elix-lsf.fr/IMG/mp4/blanc_adj_1_1.mp4?1367842037'>
+<source src='https://www.elix-lsf.fr/IMG/mp4/blanc_adj_1_1.mp4?1367842037'>
 <source src='https://web.archive.org//web/20190203190419im_/http://www.elix-lsf.fr/IMG/mp4/blanc_adj_1_1.mp4?1367842037'>
 </video>
 #+END_EXPORT
@@ -2825,7 +2825,7 @@ couleur rouge.
 ***** Back
 #+BEGIN_EXPORT html
 <video autoplay='' loop='' preload='metadata' class='noresize' muted='' style='width: 100%; display: inline-block; height: 100%;'>
-<source src='http://www.elix-lsf.fr/IMG/mp4/rouge.mp4?1383748798'>
+<source src='https://www.elix-lsf.fr/IMG/mp4/rouge.mp4?1383748798'>
 <source src='https://web.archive.org//web/20190203192137im_/http://www.elix-lsf.fr/IMG/mp4/rouge.mp4?1383748798'>
 </video>
 #+END_EXPORT
@@ -2843,7 +2843,7 @@ couleur verte.
 ***** Back
 #+BEGIN_EXPORT html
 <video autoplay='' loop='' preload='metadata' class='noresize' muted='' style='width: 100%; display: inline-block; height: 100%;'>
-<source src='http://www.elix-lsf.fr/IMG/mp4/vert.mp4?1383748819'>
+<source src='https://www.elix-lsf.fr/IMG/mp4/vert.mp4?1383748819'>
 <source src='https://web.archive.org//web/20190203192218im_/http://www.elix-lsf.fr/IMG/mp4/vert.mp4?1383748819'>
 </video>
 #+END_EXPORT
@@ -2861,7 +2861,7 @@ la couleur jaune.
 ***** Back
 #+BEGIN_EXPORT html
 <video autoplay='' loop='' preload='metadata' class='noresize' muted='' style='width: 100%; display: inline-block; height: 100%;'>
-<source src='http://www.elix-lsf.fr/IMG/mp4/jaune_nm_1_1.mp4?1350689684'>
+<source src='https://www.elix-lsf.fr/IMG/mp4/jaune_nm_1_1.mp4?1350689684'>
 <source src='https://web.archive.org//web/20190203192235im_/http://www.elix-lsf.fr/IMG/mp4/jaune_nm_1_1.mp4?1350689684'>
 </video>
 #+END_EXPORT
@@ -2898,7 +2898,7 @@ couleur violette.
 ***** Back
 #+BEGIN_EXPORT html
 <video autoplay='' loop='' preload='metadata' class='noresize' muted='' style='width: 100%; display: inline-block; height: 100%;'>
-<source src='http://www.elix-lsf.fr/IMG/mp4/01478-2.mp4?1384272667'>
+<source src='https://www.elix-lsf.fr/IMG/mp4/01478-2.mp4?1384272667'>
 <source src='https://web.archive.org//web/20190203192315im_/http://www.elix-lsf.fr/IMG/mp4/01478-2.mp4?1384272667'>
 </video>
 #+END_EXPORT
@@ -2935,7 +2935,7 @@ couleur la plus foncée, due à l'absence ou à l'absorption totale des rayons l
 ***** Back
 #+BEGIN_EXPORT html
 <video autoplay='' loop='' preload='metadata' class='noresize' muted='' style='width: 100%; display: inline-block; height: 100%;'>
-<source src='http://www.elix-lsf.fr/IMG/mp4/01488.mp4?1384273929'>
+<source src='https://www.elix-lsf.fr/IMG/mp4/01488.mp4?1384273929'>
 <source src='https://web.archive.org//web/20190203192328im_/http://www.elix-lsf.fr/IMG/mp4/01488.mp4?1384273929'>
 </video>
 #+END_EXPORT
@@ -2953,11 +2953,11 @@ couleur achromatique entre le blanc et le noir.
 ***** Back
 #+BEGIN_EXPORT html
 <video autoplay='' loop='' preload='metadata' class='noresize' muted='' style='width: 100%; display: inline-block; height: 100%;'>
-<source src='http://www.elix-lsf.fr/IMG/mp4/gris_nm_1_2.mp4?1384519908'>
+<source src='https://www.elix-lsf.fr/IMG/mp4/gris_nm_1_2.mp4?1384519908'>
 <source src='https://web.archive.org//web/20190203192332im_/http://www.elix-lsf.fr/IMG/mp4/gris_nm_1_2.mp4?1384519908'>
 </video>
 <video autoplay='' loop='' preload='metadata' class='noresize' muted='' style='width: 100%; display: inline-block; height: 100%;'>
-<source src='http://www.elix-lsf.fr/IMG/mp4/gris_nm_1_1.mp4?1350689642'>
+<source src='https://www.elix-lsf.fr/IMG/mp4/gris_nm_1_1.mp4?1350689642'>
 <source src='https://web.archive.org//web/20190203192332im_/http://www.elix-lsf.fr/IMG/mp4/gris_nm_1_1.mp4?1350689642'>
 </video>
 #+END_EXPORT
@@ -2975,7 +2975,7 @@ gris, de la couleur de l'argent.
 ***** Back
 #+BEGIN_EXPORT html
 <video autoplay='' loop='' preload='metadata' class='noresize' muted='' style='width: 100%; display: inline-block; height: 100%;'>
-<source src='http://www.elix-lsf.fr/IMG/mp4/argente_adj_2_1.mp4?1384519757'>
+<source src='https://www.elix-lsf.fr/IMG/mp4/argente_adj_2_1.mp4?1384519757'>
 <source src='https://web.archive.org//web/20190206183910im_/http://www.elix-lsf.fr/IMG/mp4/argente_adj_2_1.mp4?1384519757'>
 </video>
 #+END_EXPORT
@@ -2993,7 +2993,7 @@ d'une couleur tirant sur l'orange.
 ***** Back
 #+BEGIN_EXPORT html
 <video autoplay='' loop='' preload='metadata' class='noresize' muted='' style='width: 100%; display: inline-block; height: 100%;'>
-<source src='http://www.elix-lsf.fr/IMG/mp4/orange_adj_1_1.mp4?1350689844'>
+<source src='https://www.elix-lsf.fr/IMG/mp4/orange_adj_1_1.mp4?1350689844'>
 <source src='https://web.archive.org//web/20190203192342im_/http://www.elix-lsf.fr/IMG/mp4/orange_adj_1_1.mp4?1350689844'>
 </video>
 #+END_EXPORT
@@ -3011,11 +3011,11 @@ couleur d'un brun très clair.
 ***** Back
 #+BEGIN_EXPORT html
 <video autoplay='' loop='' preload='metadata' class='noresize' muted='' style='width: 100%; display: inline-block; height: 100%;'>
-<source src='http://www.elix-lsf.fr/IMG/mp4/beige_nm_1_1.mp4?1367841712'>
+<source src='https://www.elix-lsf.fr/IMG/mp4/beige_nm_1_1.mp4?1367841712'>
 <source src='https://web.archive.org//web/20190203192349im_/http://www.elix-lsf.fr/IMG/mp4/beige_nm_1_1.mp4?1367841712'>
 </video>
 <video autoplay='' loop='' preload='metadata' class='noresize' muted='' style='width: 100%; display: inline-block; height: 100%;'>
-<source src='http://www.elix-lsf.fr/IMG/mp4/beige_nm_1_2.mp4?1367841712'>
+<source src='https://www.elix-lsf.fr/IMG/mp4/beige_nm_1_2.mp4?1367841712'>
 <source src='https://web.archive.org//web/20190203192349im_/http://www.elix-lsf.fr/IMG/mp4/beige_nm_1_2.mp4?1367841712'>
 </video>
 #+END_EXPORT
@@ -3033,7 +3033,7 @@ très ardent, emporté.
 ***** Back
 #+BEGIN_EXPORT html
 <video autoplay='' loop='' preload='metadata' class='noresize' muted='' style='width: 100%; display: inline-block; height: 100%;'>
-<source src='http://www.elix-lsf.fr/IMG/mp4/vif_adj_1_1.mp4?1351083186'>
+<source src='https://www.elix-lsf.fr/IMG/mp4/vif_adj_1_1.mp4?1351083186'>
 <source src='https://web.archive.org//web/20190203210218im_/http://www.elix-lsf.fr/IMG/mp4/vif_adj_1_1.mp4?1351083186'>
 </video>
 #+END_EXPORT
@@ -3051,7 +3051,7 @@ qui a l'éclat du jour; qui est sans nuage.
 ***** Back
 #+BEGIN_EXPORT html
 <video autoplay='' loop='' preload='metadata' class='noresize' muted='' style='width: 100%; display: inline-block; height: 100%;'>
-<source src='http://www.elix-lsf.fr/IMG/mp4/clair_adj_1_1.mp4?1350689302'>
+<source src='https://www.elix-lsf.fr/IMG/mp4/clair_adj_1_1.mp4?1350689302'>
 <source src='https://web.archive.org//web/20190203192939im_/http://www.elix-lsf.fr/IMG/mp4/clair_adj_1_1.mp4?1350689302'>
 </video>
 #+END_EXPORT
@@ -3069,7 +3069,7 @@ où il y peu de lumière, qui est peu éclairé.
 ***** Back
 #+BEGIN_EXPORT html
 <video autoplay='' loop='' preload='metadata' class='noresize' muted='' style='width: 100%; display: inline-block; height: 100%;'>
-<source src='http://www.elix-lsf.fr/IMG/mp4/sombre_adj_1_1.mp4?1350688337'>
+<source src='https://www.elix-lsf.fr/IMG/mp4/sombre_adj_1_1.mp4?1350688337'>
 <source src='https://web.archive.org//web/20190203193222im_/http://www.elix-lsf.fr/IMG/mp4/sombre_adj_1_1.mp4?1350688337'>
 </video>
 #+END_EXPORT
@@ -3106,7 +3106,7 @@ véhicule à deux roues sans moteur, mû par un système de pédalier, dirigé p
 ***** Back
 #+BEGIN_EXPORT html
 <video autoplay='' loop='' preload='metadata' class='noresize' muted='' style='width: 100%; display: inline-block; height: 100%;'>
-<source src='http://www.elix-lsf.fr/IMG/mp4/velo-2.mp4?1406802505'>
+<source src='https://www.elix-lsf.fr/IMG/mp4/velo-2.mp4?1406802505'>
 <source src='https://web.archive.org//web/20190203195407im_/http://www.elix-lsf.fr/IMG/mp4/velo-2.mp4?1406802505'>
 </video>
 #+END_EXPORT
@@ -3124,7 +3124,7 @@ véhicule à deux roues monté avec un moteur à essence de plus de 125 cm3.
 ***** Back
 #+BEGIN_EXPORT html
 <video autoplay='' loop='' preload='metadata' class='noresize' muted='' style='width: 100%; display: inline-block; height: 100%;'>
-<source src='http://www.elix-lsf.fr/IMG/mp4/moto_nf_1_1.mp4?1350689804'>
+<source src='https://www.elix-lsf.fr/IMG/mp4/moto_nf_1_1.mp4?1350689804'>
 <source src='https://web.archive.org//web/20190203195411im_/http://www.elix-lsf.fr/IMG/mp4/moto_nf_1_1.mp4?1350689804'>
 </video>
 #+END_EXPORT
@@ -3142,7 +3142,7 @@ véhicule à moteur de transport aérien, plus lourd que l'air et muni d'ailes.
 ***** Back
 #+BEGIN_EXPORT html
 <video autoplay='' loop='' preload='metadata' class='noresize' muted='' style='width: 100%; display: inline-block; height: 100%;'>
-<source src='http://www.elix-lsf.fr/IMG/mp4/avion_nm_1_1.mp4?1350688550'>
+<source src='https://www.elix-lsf.fr/IMG/mp4/avion_nm_1_1.mp4?1350688550'>
 <source src='https://web.archive.org//web/20190203195415im_/http://www.elix-lsf.fr/IMG/mp4/avion_nm_1_1.mp4?1350688550'>
 </video>
 #+END_EXPORT
@@ -3160,7 +3160,7 @@ aéronef dont la sustentation et la propulsion sont faites par une ou deux héli
 ***** Back
 #+BEGIN_EXPORT html
 <video autoplay='' loop='' preload='metadata' class='noresize' muted='' style='width: 100%; display: inline-block; height: 100%;'>
-<source src='http://www.elix-lsf.fr/IMG/mp4/helicoptere_nm_1_1.mp4?1350689649'>
+<source src='https://www.elix-lsf.fr/IMG/mp4/helicoptere_nm_1_1.mp4?1350689649'>
 <source src='https://web.archive.org//web/20190203195417im_/http://www.elix-lsf.fr/IMG/mp4/helicoptere_nm_1_1.mp4?1350689649'>
 </video>
 #+END_EXPORT
@@ -3178,7 +3178,7 @@ engin spatial muni d'un moteur à réaction (propulsion par dilatation d'un gaz)
 ***** Back
 #+BEGIN_EXPORT html
 <video autoplay='' loop='' preload='metadata' class='noresize' muted='' style='width: 100%; display: inline-block; height: 100%;'>
-<source src='http://www.elix-lsf.fr/IMG/mp4/fusee_nf_2_1.mp4?1381307988'>
+<source src='https://www.elix-lsf.fr/IMG/mp4/fusee_nf_2_1.mp4?1381307988'>
 <source src='https://web.archive.org//web/20190204171952im_/http://www.elix-lsf.fr/IMG/mp4/fusee_nf_2_1.mp4?1381307988'>
 </video>
 #+END_EXPORT
@@ -3214,7 +3214,7 @@ automobile avec chauffeur dont un compteur indique le prix à payer d'une course
 ***** Back
 #+BEGIN_EXPORT html
 <video autoplay='' loop='' preload='metadata' class='noresize' muted='' style='width: 100%; display: inline-block; height: 100%;'>
-<source src='http://www.elix-lsf.fr/IMG/mp4/taxi_nm_1_1.mp4?1350688572'>
+<source src='https://www.elix-lsf.fr/IMG/mp4/taxi_nm_1_1.mp4?1350688572'>
 <source src='https://web.archive.org//web/20190203195427im_/http://www.elix-lsf.fr/IMG/mp4/taxi_nm_1_1.mp4?1350688572'>
 </video>
 #+END_EXPORT
@@ -3307,7 +3307,7 @@ train à grande vitesse.
 ***** Back
 #+BEGIN_EXPORT html
 <video autoplay='' loop='' preload='metadata' class='noresize' muted='' style='width: 100%; display: inline-block; height: 100%;'>
-<source src='http://www.elix-lsf.fr/IMG/mp4/tgv_nm_1_1.mp4?1350688358'>
+<source src='https://www.elix-lsf.fr/IMG/mp4/tgv_nm_1_1.mp4?1350688358'>
 <source src='https://web.archive.org//web/20190203195449im_/http://www.elix-lsf.fr/IMG/mp4/tgv_nm_1_1.mp4?1350688358'>
 </video>
 #+END_EXPORT
@@ -3325,7 +3325,7 @@ chemin de fer urbain, à rails plats.
 ***** Back
 #+BEGIN_EXPORT html
 <video autoplay='' loop='' preload='metadata' class='noresize' muted='' style='width: 100%; display: inline-block; height: 100%;'>
-<source src='http://www.elix-lsf.fr/IMG/mp4/tramway_nm_1_1.mp4?1351265075'>
+<source src='https://www.elix-lsf.fr/IMG/mp4/tramway_nm_1_1.mp4?1351265075'>
 <source src='https://web.archive.org//web/20190203195451im_/http://www.elix-lsf.fr/IMG/mp4/tramway_nm_1_1.mp4?1351265075'>
 </video>
 #+END_EXPORT
@@ -3343,7 +3343,7 @@ véhicule destiné à la navigation; embarcation, navire.
 ***** Back
 #+BEGIN_EXPORT html
 <video autoplay='' loop='' preload='metadata' class='noresize' muted='' style='width: 100%; display: inline-block; height: 100%;'>
-<source src='http://www.elix-lsf.fr/IMG/mp4/bateau_nm_1_1.mp4?1367841704'>
+<source src='https://www.elix-lsf.fr/IMG/mp4/bateau_nm_1_1.mp4?1367841704'>
 <source src='https://web.archive.org//web/20190203202818im_/http://www.elix-lsf.fr/IMG/mp4/bateau_nm_1_1.mp4?1367841704'>
 </video>
 #+END_EXPORT
@@ -3361,7 +3361,7 @@ planche à roulettes.
 ***** Back
 #+BEGIN_EXPORT html
 <video autoplay='' loop='' preload='metadata' class='noresize' muted='' style='width: 100%; display: inline-block; height: 100%;'>
-<source src='http://www.elix-lsf.fr/IMG/mp4/skateboard_nm_1_1.mp4?1351265256'>
+<source src='https://www.elix-lsf.fr/IMG/mp4/skateboard_nm_1_1.mp4?1351265256'>
 <source src='https://web.archive.org//web/20190203195455im_/http://www.elix-lsf.fr/IMG/mp4/skateboard_nm_1_1.mp4?1351265256'>
 </video>
 #+END_EXPORT
@@ -3378,7 +3378,7 @@ jouet constitué d'une planche reliée à deux roues, dirigé par un guidon.
 ***** Back
 #+BEGIN_EXPORT html
 <video autoplay='' loop='' preload='metadata' class='noresize' muted='' style='width: 100%; display: inline-block; height: 100%;'>
-<source src='http://www.elix-lsf.fr/IMG/mp4/trottinette_nf_1_1.mp4?1350688388'>
+<source src='https://www.elix-lsf.fr/IMG/mp4/trottinette_nf_1_1.mp4?1350688388'>
 <source src='https://web.archive.org//web/20190203195751im_/http://www.elix-lsf.fr/IMG/mp4/trottinette_nf_1_1.mp4?1350688388'>
 </video>
 #+END_EXPORT
@@ -3480,7 +3480,7 @@ Couvert de neige.
 **** Pluie (substantif)
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic (and reversed card)
-:SOURCE: http://www.sematos.eu/lsf-p-pluie-7353-fr.html
+:SOURCE: https://www.sematos.eu/lsf-p-pluie-7353-fr.html
 :ANKI_NOTE_ID: 1553975745712
 :END:
 
@@ -3491,7 +3491,7 @@ Pluie (substantif)
 ***** Back
 #+BEGIN_EXPORT html
 <video autoplay='' loop='' preload='metadata' class='noresize' muted='' style='width: 100%; display: inline-block; height: 100%;'>
-<source src='http://static.sematos.eu/videos/lsf/webm/aJpoaVslashIods%3D.webm'>
+<source src='https://static.sematos.eu/videos/lsf/webm/aJpoaVslashIods%3D.webm'>
 <source src='https://web.archive.org/web.archive.org/web/20190330173717im_/http://static.sematos.eu/videos/lsf/webm/aJpoaVslashIods%3D.webm'>
 </video>
 #+END_EXPORT
@@ -3537,7 +3537,7 @@ Phénomène météorologique lumineux en forme d'arc, offrant les couleurs du pr
 **** éclair (n.m.)
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic (and reversed card)
-:SOURCE: http://www.elix-lsf.fr/spip.php?page=signes&id_article=157497&lang=fr
+:SOURCE: https://www.elix-lsf.fr/spip.php?page=signes&id_article=157497&lang=fr
 :ANKI_NOTE_ID: 1553975749711
 :END:
 
@@ -3548,7 +3548,7 @@ Phénomène météorologique lumineux en forme d'arc, offrant les couleurs du pr
 ***** Back
 #+BEGIN_EXPORT html
 <video autoplay='' loop='' preload='metadata' class='noresize' muted='' style='width: 100%; display: inline-block; height: 100%;'>
-<source src='http://www.elix-lsf.fr/IMG/mp4/eclair_nm_1_1.mp4?1404400150'>
+<source src='https://www.elix-lsf.fr/IMG/mp4/eclair_nm_1_1.mp4?1404400150'>
 <source src='https://web.archive.org/web.archive.org/web/20190330173725im_/http://www.elix-lsf.fr/IMG/mp4/eclair_nm_1_1.mp4?1404400150'>
 </video>
 #+END_EXPORT
@@ -3556,7 +3556,7 @@ Phénomène météorologique lumineux en forme d'arc, offrant les couleurs du pr
 **** Nuage (n.m.)
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic (and reversed card)
-:SOURCE: http://www.elix-lsf.fr/spip.php?page=signes&id_article=193246&lang=fr
+:SOURCE: https://www.elix-lsf.fr/spip.php?page=signes&id_article=193246&lang=fr
 :ANKI_NOTE_ID: 1553975750712
 :END:
 
@@ -3567,7 +3567,7 @@ amas de vapeur d'eau condensée en fines gouttelettes qui est suspendu dans l'ai
 ***** Back
 #+BEGIN_EXPORT html
 <video autoplay='' loop='' preload='metadata' class='noresize' muted='' style='width: 100%; display: inline-block; height: 100%;'>
-<source src='http://www.elix-lsf.fr/IMG/mp4/nuage_nm_1_1.mp4?1350689840'>
+<source src='https://www.elix-lsf.fr/IMG/mp4/nuage_nm_1_1.mp4?1350689840'>
 <source src='https://web.archive.org/web.archive.org/web/20190330173730im_/http://www.elix-lsf.fr/IMG/mp4/nuage_nm_1_1.mp4?1350689840'>
 </video>
 #+END_EXPORT
@@ -4131,7 +4131,7 @@ Ordinateur personnel qui, grâce à un poids et un encombrement limités, peut �
 **** Portable (substantif)
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic (and reversed card)
-:SOURCE: http://www.sematos.eu/lsf-p-portable-7378-fr.html
+:SOURCE: https://www.sematos.eu/lsf-p-portable-7378-fr.html
 :ANKI_NOTE_ID: 1557745084603
 :END:
 
@@ -4143,7 +4143,7 @@ Portable (substantif)
 ***** Back
 #+BEGIN_EXPORT html
 <video autoplay='' loop='' preload='metadata' class='noresize' muted='' style='width: 100%; display: inline-block; height: 100%;'>
-<source src='http://static.sematos.eu/videos/lsf/webm/aJprZFslashIods%3D.webm'>
+<source src='https://static.sematos.eu/videos/lsf/webm/aJprZFslashIods%3D.webm'>
 <source src='https://web.archive.org/web.archive.org/web/20190513101512im_/http://static.sematos.eu/videos/lsf/webm/aJprZFslashIods%3D.webm'>
 </video>
 #+END_EXPORT
@@ -4180,7 +4180,7 @@ marque une réponse affirmative.
 **** Back
 #+BEGIN_EXPORT html
 <video autoplay='' loop='' preload='metadata' class='noresize' muted='' style='width: 100%; display: inline-block; height: 100%;'>
-<source src='http://www.elix-lsf.fr/IMG/mp4/oui_adv_1_1.mp4?1350689847'>
+<source src='https://www.elix-lsf.fr/IMG/mp4/oui_adv_1_1.mp4?1350689847'>
 <source src='https://web.archive.org//web/20190203153149im_/http://www.elix-lsf.fr/IMG/mp4/oui_adv_1_1.mp4?1350689847'>
 </video>
 #+END_EXPORT
@@ -4198,7 +4198,7 @@ adverbe de négation.
 **** Back
 #+BEGIN_EXPORT html
 <video autoplay='' loop='' preload='metadata' class='noresize' muted='' style='width: 100%; display: inline-block; height: 100%;'>
-<source src='http://www.elix-lsf.fr/IMG/mp4/non_adv_1_1.mp4?1350689830'>
+<source src='https://www.elix-lsf.fr/IMG/mp4/non_adv_1_1.mp4?1350689830'>
 <source src='https://web.archive.org//web/20190203185256im_/http://www.elix-lsf.fr/IMG/mp4/non_adv_1_1.mp4?1350689830'>
 </video>
 #+END_EXPORT
@@ -4216,11 +4216,11 @@ en bonne santé.
 **** Back
 #+BEGIN_EXPORT html
 <video autoplay='' loop='' preload='metadata' class='noresize' muted='' style='width: 100%; display: inline-block; height: 100%;'>
-<source src='http://www.elix-lsf.fr/IMG/mp4/enforme_adj_1_2.mp4?1435242772'>
+<source src='https://www.elix-lsf.fr/IMG/mp4/enforme_adj_1_2.mp4?1435242772'>
 <source src='https://web.archive.org//web/20190203153641im_/http://www.elix-lsf.fr/IMG/mp4/enforme_adj_1_2.mp4?1435242772'>
 </video>
 <video autoplay='' loop='' preload='metadata' class='noresize' muted='' style='width: 100%; display: inline-block; height: 100%;'>
-<source src='http://www.elix-lsf.fr/IMG/mp4/enforme_adj_1_1.mp4?1351264960'>
+<source src='https://www.elix-lsf.fr/IMG/mp4/enforme_adj_1_1.mp4?1351264960'>
 <source src='https://web.archive.org//web/20190203153641im_/http://www.elix-lsf.fr/IMG/mp4/enforme_adj_1_1.mp4?1351264960'>
 </video>
 #+END_EXPORT
@@ -4238,7 +4238,7 @@ se nommer.
 **** Back
 #+BEGIN_EXPORT html
 <video autoplay='' loop='' preload='metadata' class='noresize' muted='' style='width: 100%; display: inline-block; height: 100%;'>
-<source src='http://www.elix-lsf.fr/IMG/mp4/00344-4.mp4?1373637176'>
+<source src='https://www.elix-lsf.fr/IMG/mp4/00344-4.mp4?1373637176'>
 <source src='https://web.archive.org//web/20190203153909im_/http://www.elix-lsf.fr/IMG/mp4/00344-4.mp4?1373637176'>
 </video>
 #+END_EXPORT
@@ -4255,7 +4255,7 @@ formule de politesse par laquelle on s'excuse auprès de quelqu'un que l'on dér
 **** Back
 #+BEGIN_EXPORT html
 <video autoplay='' loop='' preload='metadata' class='noresize' muted='' style='width: 100%; display: inline-block; height: 100%;'>
-<source src='http://www.elix-lsf.fr/IMG/mp4/pardon_nm_3_1.mp4?1351264866'>
+<source src='https://www.elix-lsf.fr/IMG/mp4/pardon_nm_3_1.mp4?1351264866'>
 <source src='https://web.archive.org//web/20190203161058im_/http://www.elix-lsf.fr/IMG/mp4/pardon_nm_3_1.mp4?1351264866'>
 </video>
 #+END_EXPORT
@@ -4273,7 +4273,7 @@ appareil pour produire du feu.
 **** Back
 #+BEGIN_EXPORT html
 <video autoplay='' loop='' preload='metadata' class='noresize' muted='' style='width: 100%; display: inline-block; height: 100%;'>
-<source src='http://www.elix-lsf.fr/IMG/mp4/briquet_nm_2_1.mp4?1367842215'>
+<source src='https://www.elix-lsf.fr/IMG/mp4/briquet_nm_2_1.mp4?1367842215'>
 <source src='https://web.archive.org//web/20190203161412im_/http://www.elix-lsf.fr/IMG/mp4/briquet_nm_2_1.mp4?1367842215'>
 </video>
 #+END_EXPORT
@@ -4291,7 +4291,7 @@ introduit une explication de la proposition précédente.
 **** Back
 #+BEGIN_EXPORT html
 <video autoplay='' loop='' preload='metadata' class='noresize' muted='' style='width: 100%; display: inline-block; height: 100%;'>
-<source src='http://www.elix-lsf.fr/IMG/mp4/parceque_cnj_1_1.mp4?1350688026'>
+<source src='https://www.elix-lsf.fr/IMG/mp4/parceque_cnj_1_1.mp4?1350688026'>
 <source src='https://web.archive.org//web/20190204115645im_/http://www.elix-lsf.fr/IMG/mp4/parceque_cnj_1_1.mp4?1350688026'>
 </video>
 #+END_EXPORT
@@ -4309,7 +4309,7 @@ pour que, dans le but que.
 **** Back
 #+BEGIN_EXPORT html
 <video autoplay='' loop='' preload='metadata' class='noresize' muted='' style='width: 100%; display: inline-block; height: 100%;'>
-<source src='http://www.elix-lsf.fr/IMG/mp4/00091-2.mp4?1370951347'>
+<source src='https://www.elix-lsf.fr/IMG/mp4/00091-2.mp4?1370951347'>
 <source src='https://web.archive.org//web/20190204115603im_/http://www.elix-lsf.fr/IMG/mp4/00091-2.mp4?1370951347'>
 </video>
 #+END_EXPORT
@@ -4327,7 +4327,7 @@ indique l'équivalence : blanc bonnet ou bonnet blanc.
 **** Back
 #+BEGIN_EXPORT html
 <video autoplay='' loop='' preload='metadata' class='noresize' muted='' style='width: 100%; display: inline-block; height: 100%;'>
-<source src='http://www.elix-lsf.fr/IMG/mp4/ou-2.mp4?1380116555'>
+<source src='https://www.elix-lsf.fr/IMG/mp4/ou-2.mp4?1380116555'>
 <source src='https://web.archive.org//web/20190208151005im_/http://www.elix-lsf.fr/IMG/mp4/ou-2.mp4?1380116555'>
 </video>
 #+END_EXPORT
@@ -4345,7 +4345,7 @@ marque le doute, la possibilité, l'éventualité. Il fera peut-être froid.
 **** Back
 #+BEGIN_EXPORT html
 <video autoplay='' loop='' preload='metadata' class='noresize' muted='' style='width: 100%; display: inline-block; height: 100%;'>
-<source src='http://www.elix-lsf.fr/IMG/mp4/peut-etre_adv_1_1.mp4?1350688065'>
+<source src='https://www.elix-lsf.fr/IMG/mp4/peut-etre_adv_1_1.mp4?1350688065'>
 <source src='https://web.archive.org//web/20190208151413im_/http://www.elix-lsf.fr/IMG/mp4/peut-etre_adv_1_1.mp4?1350688065'>
 </video>
 #+END_EXPORT
@@ -4362,7 +4362,7 @@ boîte à ordures ménagères.
 **** Back
 #+BEGIN_EXPORT html
 <video autoplay='' loop='' preload='metadata' class='noresize' muted='' style='width: 100%; display: inline-block; height: 100%;'>
-<source src='http://www.elix-lsf.fr/IMG/mp4/poubelle_nf_1_1.mp4?1350688115'>
+<source src='https://www.elix-lsf.fr/IMG/mp4/poubelle_nf_1_1.mp4?1350688115'>
 <source src='https://web.archive.org//web/20190203174022im_/http://www.elix-lsf.fr/IMG/mp4/poubelle_nf_1_1.mp4?1350688115'>
 </video>
 #+END_EXPORT
@@ -4379,7 +4379,7 @@ d'une manière correcte.
 **** Back
 #+BEGIN_EXPORT html
 <video autoplay='' loop='' preload='metadata' class='noresize' muted='' style='width: 100%; display: inline-block; height: 100%;'>
-<source src='http://www.elix-lsf.fr/IMG/mp4/bien_sc_1_1.mp4?1367841718'>
+<source src='https://www.elix-lsf.fr/IMG/mp4/bien_sc_1_1.mp4?1367841718'>
 <source src='https://web.archive.org//web/20190203174154im_/http://www.elix-lsf.fr/IMG/mp4/bien_sc_1_1.mp4?1367841718'>
 </video>
 #+END_EXPORT
@@ -4397,7 +4397,7 @@ Dormir (v.)
 **** Back
 #+BEGIN_EXPORT html
 <video autoplay='' loop='' preload='metadata' class='noresize' muted='' style='width: 100%; display: inline-block; height: 100%;'>
-<source src='http://www.elix-lsf.fr/IMG/mp4/dormir_v_1_1.mp4?1351264722'>
+<source src='https://www.elix-lsf.fr/IMG/mp4/dormir_v_1_1.mp4?1351264722'>
 <source src='https://web.archive.org//web/20190203180320im_/http://www.elix-lsf.fr/IMG/mp4/dormir_v_1_1.mp4?1351264722'>
 </video>
 #+END_EXPORT
@@ -4415,7 +4415,7 @@ rendre lumineux, éclairer.
 **** Back
 #+BEGIN_EXPORT html
 <video autoplay='' loop='' preload='metadata' class='noresize' muted='' style='width: 100%; display: inline-block; height: 100%;'>
-<source src='http://www.elix-lsf.fr/IMG/mp4/allumer_v_3_1.mp4?1350689006'>
+<source src='https://www.elix-lsf.fr/IMG/mp4/allumer_v_3_1.mp4?1350689006'>
 <source src='https://web.archive.org//web/20190203210402im_/http://www.elix-lsf.fr/IMG/mp4/allumer_v_3_1.mp4?1350689006'>
 </video>
 #+END_EXPORT
@@ -4433,7 +4433,7 @@ faire cesser de brûler, d'éclairer.
 **** Back
 #+BEGIN_EXPORT html
 <video autoplay='' loop='' preload='metadata' class='noresize' muted='' style='width: 100%; display: inline-block; height: 100%;'>
-<source src='http://www.elix-lsf.fr/IMG/mp4/eteindre_v_1_1.mp4?1350689471'>
+<source src='https://www.elix-lsf.fr/IMG/mp4/eteindre_v_1_1.mp4?1350689471'>
 <source src='https://web.archive.org//web/20190203181126im_/http://www.elix-lsf.fr/IMG/mp4/eteindre_v_1_1.mp4?1350689471'>
 </video>
 #+END_EXPORT
@@ -4478,7 +4478,7 @@ Personne dont l'acuité auditive est diminuée.
 *** Entendant
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic (and reversed card)
-:SOURCE: http://www.sematos.eu/lsf-p-entendant-7022-fr.html
+:SOURCE: https://www.sematos.eu/lsf-p-entendant-7022-fr.html
 :ANKI_NOTE_ID: 1553975777711
 :SOURCE: https://signsuisse.sgb-fss.ch/fr/lexikon/g/entendant
 :END:
@@ -4508,7 +4508,7 @@ Acronyme de Langue des Signes Française
 **** Back
 #+BEGIN_EXPORT html
 <video autoplay='' loop='' preload='metadata' class='noresize' muted='' style='width: 100%; display: inline-block; height: 100%;'>
-<source src='http://www.elix-lsf.fr/IMG/mp4/lsf.mp4?1402321753'>
+<source src='https://www.elix-lsf.fr/IMG/mp4/lsf.mp4?1402321753'>
 <source src='https://web.archive.org//web/20190203182445im_/http://www.elix-lsf.fr/IMG/mp4/lsf.mp4?1402321753'>
 </video>
 #+END_EXPORT
@@ -4516,7 +4516,7 @@ Acronyme de Langue des Signes Française
 *** Chance (substantif)
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic (and reversed card)
-:SOURCE: http://www.sematos.eu/lsf-p-chance-6824-fr.html
+:SOURCE: https://www.sematos.eu/lsf-p-chance-6824-fr.html
 :ANKI_NOTE_ID: 1553975779711
 :END:
 
@@ -4527,7 +4527,7 @@ Chance (substantif)
 **** Back
 #+BEGIN_EXPORT html
 <video autoplay='' loop='' preload='metadata' class='noresize' muted='' style='width: 100%; display: inline-block; height: 100%;'>
-<source src='http://static.sematos.eu/videos/lsf/webm/aJVmZVslashIods%3D.webm'>
+<source src='https://static.sematos.eu/videos/lsf/webm/aJVmZVslashIods%3D.webm'>
 <source src='https://web.archive.org//web/20190319133814im_/http://static.sematos.eu/videos/lsf/webm/aJVmZVslashIods%3D.webm'>
 </video>
 #+END_EXPORT
@@ -4544,7 +4544,7 @@ fâcheux, regrettable.
 **** Back
 #+BEGIN_EXPORT html
 <video autoplay='' loop='' preload='metadata' class='noresize' muted='' style='width: 100%; display: inline-block; height: 100%;'>
-<source src='http://www.elix-lsf.fr/IMG/mp4/dommage_adj_1_1.mp4?1350689433'>
+<source src='https://www.elix-lsf.fr/IMG/mp4/dommage_adj_1_1.mp4?1350689433'>
 <source src='https://web.archive.org//web/20190203184149im_/http://www.elix-lsf.fr/IMG/mp4/dommage_adj_1_1.mp4?1350689433'>
 </video>
 #+END_EXPORT
@@ -4562,7 +4562,7 @@ avoir envie de.
 **** Back
 #+BEGIN_EXPORT html
 <video autoplay='' loop='' preload='metadata' class='noresize' muted='' style='width: 100%; display: inline-block; height: 100%;'>
-<source src='http://www.elix-lsf.fr/IMG/mp4/vouloir_v_1_1.mp4?1350689899'>
+<source src='https://www.elix-lsf.fr/IMG/mp4/vouloir_v_1_1.mp4?1350689899'>
 <source src='https://web.archive.org//web/20190203184255im_/http://www.elix-lsf.fr/IMG/mp4/vouloir_v_1_1.mp4?1350689899'>
 </video>
 #+END_EXPORT
@@ -4580,7 +4580,7 @@ Avoir (v.)
 **** Back
 #+BEGIN_EXPORT html
 <video autoplay='' loop='' preload='metadata' class='noresize' muted='' style='width: 100%; display: inline-block; height: 100%;'>
-<source src='http://www.elix-lsf.fr/IMG/mp4/avoir_v_1_1.mp4?1367841578'>
+<source src='https://www.elix-lsf.fr/IMG/mp4/avoir_v_1_1.mp4?1367841578'>
 <source src='https://web.archive.org//web/20190208224852im_/http://www.elix-lsf.fr/IMG/mp4/avoir_v_1_1.mp4?1367841578'>
 </video>
 #+END_EXPORT
@@ -4655,11 +4655,11 @@ boisson obtenue par infusion de grains de café torréfiés et moulus.
 **** Back
 #+BEGIN_EXPORT html
 <video autoplay='' loop='' preload='metadata' class='noresize' muted='' style='width: 100%; display: inline-block; height: 100%;'>
-<source src='http://www.elix-lsf.fr/IMG/mp4/cafe_nm_2_6.mp4?1540304563'>
+<source src='https://www.elix-lsf.fr/IMG/mp4/cafe_nm_2_6.mp4?1540304563'>
 <source src='https://web.archive.org//web/20190203184448im_/http://www.elix-lsf.fr/IMG/mp4/cafe_nm_2_6.mp4?1540304563'>
 </video>
 <video autoplay='' loop='' preload='metadata' class='noresize' muted='' style='width: 100%; display: inline-block; height: 100%;'>
-<source src='http://www.elix-lsf.fr/IMG/mp4/cafe_nm_2_2.mp4?1425315925'>
+<source src='https://www.elix-lsf.fr/IMG/mp4/cafe_nm_2_2.mp4?1425315925'>
 <source src='https://web.archive.org//web/20190203184448im_/http://www.elix-lsf.fr/IMG/mp4/cafe_nm_2_2.mp4?1425315925'>
 </video>
 #+END_EXPORT
@@ -4677,11 +4677,11 @@ boisson obtenue par l'infusion des feuilles de cet arbre.
 **** Back
 #+BEGIN_EXPORT html
 <video autoplay='' loop='' preload='metadata' class='noresize' muted='' style='width: 100%; display: inline-block; height: 100%;'>
-<source src='http://www.elix-lsf.fr/IMG/mp4/the-2.mp4?1406802389'>
+<source src='https://www.elix-lsf.fr/IMG/mp4/the-2.mp4?1406802389'>
 <source src='https://web.archive.org//web/20190208225204im_/http://www.elix-lsf.fr/IMG/mp4/the-2.mp4?1406802389'>
 </video>
 <video autoplay='' loop='' preload='metadata' class='noresize' muted='' style='width: 100%; display: inline-block; height: 100%;'>
-<source src='http://www.elix-lsf.fr/IMG/mp4/the.mp4?1397811678'>
+<source src='https://www.elix-lsf.fr/IMG/mp4/the.mp4?1397811678'>
 <source src='https://web.archive.org//web/20190208225204im_/http://www.elix-lsf.fr/IMG/mp4/the.mp4?1397811678'>
 </video>
 #+END_EXPORT
@@ -4698,7 +4698,7 @@ personne qui n'est pas présente alors qu'elle devrait l'être.
 **** Back
 #+BEGIN_EXPORT html
 <video autoplay='' loop='' preload='metadata' class='noresize' muted='' style='width: 100%; display: inline-block; height: 100%;'>
-<source src='http://www.elix-lsf.fr/IMG/mp4/absent_nm_2_1.mp4?1370874435'>
+<source src='https://www.elix-lsf.fr/IMG/mp4/absent_nm_2_1.mp4?1370874435'>
 <source src='https://web.archive.org//web/20190203185603im_/http://www.elix-lsf.fr/IMG/mp4/absent_nm_2_1.mp4?1370874435'>
 </video>
 #+END_EXPORT
@@ -4715,7 +4715,7 @@ convention entre personnes qui harmonise leurs intérêts respectifs.
 **** Back
 #+BEGIN_EXPORT html
 <video autoplay='' loop='' preload='metadata' class='noresize' muted='' style='width: 100%; display: inline-block; height: 100%;'>
-<source src='http://www.elix-lsf.fr/IMG/mp4/accord_nm_1_1-encoded-2-encoded.mp4?1403704720'>
+<source src='https://www.elix-lsf.fr/IMG/mp4/accord_nm_1_1-encoded-2-encoded.mp4?1403704720'>
 <source src='https://web.archive.org//web/20190203190043im_/http://www.elix-lsf.fr/IMG/mp4/accord_nm_1_1-encoded-2-encoded.mp4?1403704720'>
 </video>
 #+END_EXPORT
@@ -4752,7 +4752,7 @@ morceau de papier mince et rectangulaire.
 **** Back
 #+BEGIN_EXPORT html
 <video autoplay='' loop='' preload='metadata' class='noresize' muted='' style='width: 100%; display: inline-block; height: 100%;'>
-<source src='http://www.elix-lsf.fr/IMG/mp4/00116-2.mp4?1370958443'>
+<source src='https://www.elix-lsf.fr/IMG/mp4/00116-2.mp4?1370958443'>
 <source src='https://web.archive.org//web/20190203190319im_/http://www.elix-lsf.fr/IMG/mp4/00116-2.mp4?1370958443'>
 </video>
 #+END_EXPORT
@@ -4770,7 +4770,7 @@ s'efforcer de trouver qqn ou qqch.
 **** Back
 #+BEGIN_EXPORT html
 <video autoplay='' loop='' preload='metadata' class='noresize' muted='' style='width: 100%; display: inline-block; height: 100%;'>
-<source src='http://www.elix-lsf.fr/IMG/mp4/chercher_v_1_1.mp4?1381306616'>
+<source src='https://www.elix-lsf.fr/IMG/mp4/chercher_v_1_1.mp4?1381306616'>
 <source src='https://web.archive.org//web/20190203190832im_/http://www.elix-lsf.fr/IMG/mp4/chercher_v_1_1.mp4?1381306616'>
 </video>
 #+END_EXPORT
@@ -4788,7 +4788,7 @@ fait d'aller; trajet fait d'un lieu vers un autre.
 **** Back
 #+BEGIN_EXPORT html
 <video autoplay='' loop='' preload='metadata' class='noresize' muted='' style='width: 100%; display: inline-block; height: 100%;'>
-<source src='http://www.elix-lsf.fr/IMG/mp4/aller_nm_1_1.mp4?1381303282'>
+<source src='https://www.elix-lsf.fr/IMG/mp4/aller_nm_1_1.mp4?1381303282'>
 <source src='https://web.archive.org//web/20190203191056im_/http://www.elix-lsf.fr/IMG/mp4/aller_nm_1_1.mp4?1381303282'>
 </video>
 #+END_EXPORT
@@ -4806,7 +4806,7 @@ prendre fin.
 **** Back
 #+BEGIN_EXPORT html
 <video autoplay='' loop='' preload='metadata' class='noresize' muted='' style='width: 100%; display: inline-block; height: 100%;'>
-<source src='http://www.elix-lsf.fr/IMG/mp4/arreter_v_2_1.mp4?1354620749'>
+<source src='https://www.elix-lsf.fr/IMG/mp4/arreter_v_2_1.mp4?1354620749'>
 <source src='https://web.archive.org//web/20190203191134im_/http://www.elix-lsf.fr/IMG/mp4/arreter_v_2_1.mp4?1354620749'>
 </video>
 #+END_EXPORT
@@ -4824,7 +4824,7 @@ activité humaine ayant pour but de produire quelque chose d'utile.
 **** Back
 #+BEGIN_EXPORT html
 <video autoplay='' loop='' preload='metadata' class='noresize' muted='' style='width: 100%; display: inline-block; height: 100%;'>
-<source src='http://www.elix-lsf.fr/IMG/mp4/travail-2.mp4?1404895791'>
+<source src='https://www.elix-lsf.fr/IMG/mp4/travail-2.mp4?1404895791'>
 <source src='https://web.archive.org//web/20190203191249im_/http://www.elix-lsf.fr/IMG/mp4/travail-2.mp4?1404895791'>
 </video>
 #+END_EXPORT
@@ -4842,7 +4842,7 @@ interruption momentanée d'une activité; suspension d'un travail.
 **** Back
 #+BEGIN_EXPORT html
 <video autoplay='' loop='' preload='metadata' class='noresize' muted='' style='width: 100%; display: inline-block; height: 100%;'>
-<source src='http://www.elix-lsf.fr/IMG/mp4/pause.mp4?1380120213'>
+<source src='https://www.elix-lsf.fr/IMG/mp4/pause.mp4?1380120213'>
 <source src='https://web.archive.org//web/20190203191553im_/http://www.elix-lsf.fr/IMG/mp4/pause.mp4?1380120213'>
 </video>
 #+END_EXPORT
@@ -4860,7 +4860,7 @@ pour terminer, au bout du compte.
 **** Back
 #+BEGIN_EXPORT html
 <video autoplay='' loop='' preload='metadata' class='noresize' muted='' style='width: 100%; display: inline-block; height: 100%;'>
-<source src='http://www.elix-lsf.fr/IMG/mp4/enfin_adv_1_1.mp4?1350689455'>
+<source src='https://www.elix-lsf.fr/IMG/mp4/enfin_adv_1_1.mp4?1350689455'>
 <source src='https://web.archive.org//web/20190203191622im_/http://www.elix-lsf.fr/IMG/mp4/enfin_adv_1_1.mp4?1350689455'>
 </video>
 #+END_EXPORT
@@ -4877,11 +4877,11 @@ conscience plus ou moins diffuse d'éléments affectifs.
 **** Back
 #+BEGIN_EXPORT html
 <video autoplay='' loop='' preload='metadata' class='noresize' muted='' style='width: 100%; display: inline-block; height: 100%;'>
-<source src='http://www.elix-lsf.fr/IMG/mp4/sentiment_nm_1_2.mp4?1414427587'>
+<source src='https://www.elix-lsf.fr/IMG/mp4/sentiment_nm_1_2.mp4?1414427587'>
 <source src='https://web.archive.org//web/20190203205858im_/http://www.elix-lsf.fr/IMG/mp4/sentiment_nm_1_2.mp4?1414427587'>
 </video>
 <video autoplay='' loop='' preload='metadata' class='noresize' muted='' style='width: 100%; display: inline-block; height: 100%;'>
-<source src='http://www.elix-lsf.fr/IMG/mp4/sentiment_nm_1_1.mp4?1350688323'>
+<source src='https://www.elix-lsf.fr/IMG/mp4/sentiment_nm_1_1.mp4?1350688323'>
 <source src='https://web.archive.org//web/20190203205858im_/http://www.elix-lsf.fr/IMG/mp4/sentiment_nm_1_1.mp4?1350688323'>
 </video>
 #+END_EXPORT
@@ -4918,7 +4918,7 @@ qui est dans une triste situation.
 **** Back
 #+BEGIN_EXPORT html
 <video autoplay='' loop='' preload='metadata' class='noresize' muted='' style='width: 100%; display: inline-block; height: 100%;'>
-<source src='http://www.elix-lsf.fr/IMG/mp4/malheureux_adj_1_1.mp4?1350689741'>
+<source src='https://www.elix-lsf.fr/IMG/mp4/malheureux_adj_1_1.mp4?1350689741'>
 <source src='https://web.archive.org//web/20190203193350im_/http://www.elix-lsf.fr/IMG/mp4/malheureux_adj_1_1.mp4?1350689741'>
 </video>
 #+END_EXPORT
@@ -4936,11 +4936,11 @@ avoir du goût pour qqch.
 **** Back
 #+BEGIN_EXPORT html
 <video autoplay='' loop='' preload='metadata' class='noresize' muted='' style='width: 100%; display: inline-block; height: 100%;'>
-<source src='http://www.elix-lsf.fr/IMG/mp4/aimer_v_1_6.mp4?1540304540'>
+<source src='https://www.elix-lsf.fr/IMG/mp4/aimer_v_1_6.mp4?1540304540'>
 <source src='https://web.archive.org//web/20190203193452im_/http://www.elix-lsf.fr/IMG/mp4/aimer_v_1_6.mp4?1540304540'>
 </video>
 <video autoplay='' loop='' preload='metadata' class='noresize' muted='' style='width: 100%; display: inline-block; height: 100%;'>
-<source src='http://www.elix-lsf.fr/IMG/mp4/aimer-2.mp4?1406793410'>
+<source src='https://www.elix-lsf.fr/IMG/mp4/aimer-2.mp4?1406793410'>
 <source src='https://web.archive.org//web/20190203193452im_/http://www.elix-lsf.fr/IMG/mp4/aimer-2.mp4?1406793410'>
 </video>
 #+END_EXPORT
@@ -4958,7 +4958,7 @@ aimer d'un amour passionné.
 **** Back
 #+BEGIN_EXPORT html
 <video autoplay='' loop='' preload='metadata' class='noresize' muted='' style='width: 100%; display: inline-block; height: 100%;'>
-<source src='http://www.elix-lsf.fr/IMG/mp4/adorer_v_2_1.mp4?1381303265'>
+<source src='https://www.elix-lsf.fr/IMG/mp4/adorer_v_2_1.mp4?1381303265'>
 <source src='https://web.archive.org//web/20190203193648im_/http://www.elix-lsf.fr/IMG/mp4/adorer_v_2_1.mp4?1381303265'>
 </video>
 #+END_EXPORT
@@ -4976,7 +4976,7 @@ avoir de l'aversion pour.
 **** Back
 #+BEGIN_EXPORT html
 <video autoplay='' loop='' preload='metadata' class='noresize' muted='' style='width: 100%; display: inline-block; height: 100%;'>
-<source src='http://www.elix-lsf.fr/IMG/mp4/detester_v_1_1.mp4?1381307913'>
+<source src='https://www.elix-lsf.fr/IMG/mp4/detester_v_1_1.mp4?1381307913'>
 <source src='https://web.archive.org//web/20190203193651im_/http://www.elix-lsf.fr/IMG/mp4/detester_v_1_1.mp4?1381307913'>
 </video>
 #+END_EXPORT
@@ -4994,11 +4994,11 @@ Fatiguer (v.)
 **** Back
 #+BEGIN_EXPORT html
 <video autoplay='' loop='' preload='metadata' class='noresize' muted='' style='width: 100%; display: inline-block; height: 100%;'>
-<source src='http://www.elix-lsf.fr/IMG/mp4/fatiguer_v_2_1.mp4?1435242838'>
+<source src='https://www.elix-lsf.fr/IMG/mp4/fatiguer_v_2_1.mp4?1435242838'>
 <source src='https://web.archive.org//web/20190203193929im_/http://www.elix-lsf.fr/IMG/mp4/fatiguer_v_2_1.mp4?1435242838'>
 </video>
 <video autoplay='' loop='' preload='metadata' class='noresize' muted='' style='width: 100%; display: inline-block; height: 100%;'>
-<source src='http://www.elix-lsf.fr/IMG/mp4/fatiguer.mp4?1406812121'>
+<source src='https://www.elix-lsf.fr/IMG/mp4/fatiguer.mp4?1406812121'>
 <source src='https://web.archive.org//web/20190203193929im_/http://www.elix-lsf.fr/IMG/mp4/fatiguer.mp4?1406812121'>
 </video>
 #+END_EXPORT
@@ -5016,7 +5016,7 @@ satisfait de qqn, de qqch.
 **** Back
 #+BEGIN_EXPORT html
 <video autoplay='' loop='' preload='metadata' class='noresize' muted='' style='width: 100%; display: inline-block; height: 100%;'>
-<source src='http://www.elix-lsf.fr/IMG/mp4/content-2.mp4?1406794058'>
+<source src='https://www.elix-lsf.fr/IMG/mp4/content-2.mp4?1406794058'>
 <source src='https://web.archive.org//web/20190203193949im_/http://www.elix-lsf.fr/IMG/mp4/content-2.mp4?1406794058'>
 </video>
 #+END_EXPORT
@@ -5034,7 +5034,7 @@ dont la santé est précaire, altérée.
 **** Back
 #+BEGIN_EXPORT html
 <video autoplay='' loop='' preload='metadata' class='noresize' muted='' style='width: 100%; display: inline-block; height: 100%;'>
-<source src='http://www.elix-lsf.fr/IMG/mp4/malade-3.mp4?1406800716'>
+<source src='https://www.elix-lsf.fr/IMG/mp4/malade-3.mp4?1406800716'>
 <source src='https://web.archive.org//web/20190203193955im_/http://www.elix-lsf.fr/IMG/mp4/malade-3.mp4?1406800716'>
 </video>
 #+END_EXPORT
@@ -5052,11 +5052,11 @@ mécontentement très vif accompagné de manifestations agressives.
 **** Back
 #+BEGIN_EXPORT html
 <video autoplay='' loop='' preload='metadata' class='noresize' muted='' style='width: 100%; display: inline-block; height: 100%;'>
-<source src='http://www.elix-lsf.fr/IMG/mp4/colere_nf_1_6.mp4?1540304579'>
+<source src='https://www.elix-lsf.fr/IMG/mp4/colere_nf_1_6.mp4?1540304579'>
 <source src='https://web.archive.org//web/20190203193959im_/http://www.elix-lsf.fr/IMG/mp4/colere_nf_1_6.mp4?1540304579'>
 </video>
 <video autoplay='' loop='' preload='metadata' class='noresize' muted='' style='width: 100%; display: inline-block; height: 100%;'>
-<source src='http://www.elix-lsf.fr/IMG/mp4/colere_nf_1_1.mp4?1381307009'>
+<source src='https://www.elix-lsf.fr/IMG/mp4/colere_nf_1_1.mp4?1381307009'>
 <source src='https://web.archive.org//web/20190203193959im_/http://www.elix-lsf.fr/IMG/mp4/colere_nf_1_1.mp4?1381307009'>
 </video>
 #+END_EXPORT
@@ -5074,11 +5074,11 @@ blâmer depuis une position d'autorité, pour amender ou corriger.
 **** Back
 #+BEGIN_EXPORT html
 <video autoplay='' loop='' preload='metadata' class='noresize' muted='' style='width: 100%; display: inline-block; height: 100%;'>
-<source src='http://www.elix-lsf.fr/IMG/mp4/gronder.mp4?1413738813'>
+<source src='https://www.elix-lsf.fr/IMG/mp4/gronder.mp4?1413738813'>
 <source src='https://web.archive.org//web/20190205165223im_/http://www.elix-lsf.fr/IMG/mp4/gronder.mp4?1413738813'>
 </video>
 <video autoplay='' loop='' preload='metadata' class='noresize' muted='' style='width: 100%; display: inline-block; height: 100%;'>
-<source src='http://www.elix-lsf.fr/IMG/mp4/00235-2.mp4?1371820546'>
+<source src='https://www.elix-lsf.fr/IMG/mp4/00235-2.mp4?1371820546'>
 <source src='https://web.archive.org//web/20190205165223im_/http://www.elix-lsf.fr/IMG/mp4/00235-2.mp4?1371820546'>
 </video>
 #+END_EXPORT
@@ -5096,7 +5096,7 @@ provoquer une désagréable sensation d'excitation, d'irritation, d'agacement.
 **** Back
 #+BEGIN_EXPORT html
 <video autoplay='' loop='' preload='metadata' class='noresize' muted='' style='width: 100%; display: inline-block; height: 100%;'>
-<source src='http://www.elix-lsf.fr/IMG/mp4/enerver_v_1_1.mp4?1350689454'>
+<source src='https://www.elix-lsf.fr/IMG/mp4/enerver_v_1_1.mp4?1350689454'>
 <source src='https://web.archive.org//web/20190203194156im_/http://www.elix-lsf.fr/IMG/mp4/enerver_v_1_1.mp4?1350689454'>
 </video>
 #+END_EXPORT
@@ -5132,7 +5132,7 @@ utiliser son pouvoir de réflexion, examiner une idée, une situation.
 **** Back
 #+BEGIN_EXPORT html
 <video autoplay='' loop='' preload='metadata' class='noresize' muted='' style='width: 100%; display: inline-block; height: 100%;'>
-<source src='http://www.elix-lsf.fr/IMG/mp4/reflechir_v_1_1.mp4?1350690321'>
+<source src='https://www.elix-lsf.fr/IMG/mp4/reflechir_v_1_1.mp4?1350690321'>
 <source src='https://web.archive.org//web/20190203194002im_/http://www.elix-lsf.fr/IMG/mp4/reflechir_v_1_1.mp4?1350690321'>
 </video>
 #+END_EXPORT
@@ -5150,7 +5150,7 @@ surprendre qqn par qqch d'inattendu.
 **** Back
 #+BEGIN_EXPORT html
 <video autoplay='' loop='' preload='metadata' class='noresize' muted='' style='width: 100%; display: inline-block; height: 100%;'>
-<source src='http://www.elix-lsf.fr/IMG/mp4/etonner_v_1_1.mp4?1350689473'>
+<source src='https://www.elix-lsf.fr/IMG/mp4/etonner_v_1_1.mp4?1350689473'>
 <source src='https://web.archive.org//web/20190203194004im_/http://www.elix-lsf.fr/IMG/mp4/etonner_v_1_1.mp4?1350689473'>
 </video>
 #+END_EXPORT
@@ -5168,7 +5168,7 @@ qui montre de l'impassibilité, de la maîtrise de soi; qui montre de l'indiffé
 **** Back
 #+BEGIN_EXPORT html
 <video autoplay='' loop='' preload='metadata' class='noresize' muted='' style='width: 100%; display: inline-block; height: 100%;'>
-<source src='http://www.elix-lsf.fr/IMG/mp4/froid_2_-2.mp4?1373533120'>
+<source src='https://www.elix-lsf.fr/IMG/mp4/froid_2_-2.mp4?1373533120'>
 <source src='https://web.archive.org//web/20190203194013im_/http://www.elix-lsf.fr/IMG/mp4/froid_2_-2.mp4?1373533120'>
 </video>
 #+END_EXPORT
@@ -5186,7 +5186,7 @@ faire des rêves.
 **** Back
 #+BEGIN_EXPORT html
 <video autoplay='' loop='' preload='metadata' class='noresize' muted='' style='width: 100%; display: inline-block; height: 100%;'>
-<source src='http://www.elix-lsf.fr/IMG/mp4/rever_v_1_1.mp4?1354273555'>
+<source src='https://www.elix-lsf.fr/IMG/mp4/rever_v_1_1.mp4?1354273555'>
 <source src='https://web.archive.org//web/20190203194022im_/http://www.elix-lsf.fr/IMG/mp4/rever_v_1_1.mp4?1354273555'>
 </video>
 #+END_EXPORT
@@ -5222,7 +5222,7 @@ S’ennuyer (v.)
 **** Back
 #+BEGIN_EXPORT html
 <video autoplay='' loop='' preload='metadata' class='noresize' muted='' style='width: 100%; display: inline-block; height: 100%;'>
-<source src='http://www.elix-lsf.fr/IMG/mp4/00030-2.mp4?1367854103'>
+<source src='https://www.elix-lsf.fr/IMG/mp4/00030-2.mp4?1367854103'>
 <source src='https://web.archive.org//web/20190203194036im_/http://www.elix-lsf.fr/IMG/mp4/00030-2.mp4?1367854103'>
 </video>
 #+END_EXPORT
@@ -5267,7 +5267,7 @@ Qui pend en considération ce qui mérite de l'être et agit en concéquence, av
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic (and reversed card)
 :ANKI_NOTE_ID: 1549226537346
-:SOURCE: http://www.sematos.eu/lsf-p-peur-7320-fr.html
+:SOURCE: https://www.sematos.eu/lsf-p-peur-7320-fr.html
 :END:
 
 **** Front
@@ -5277,7 +5277,7 @@ Peur (substantif)
 **** Back
 #+BEGIN_EXPORT html
 <video autoplay='' loop='' preload='metadata' class='noresize' muted='' style='width: 100%; display: inline-block; height: 100%;'>
-<source src='http://static.sematos.eu/videos/lsf/webm/aJplZlslashIods%3D.webm'>
+<source src='https://static.sematos.eu/videos/lsf/webm/aJplZlslashIods%3D.webm'>
 <source src='https://web.archive.org/web.archive.org/web/20190330200439im_/http://static.sematos.eu/videos/lsf/webm/aJplZlslashIods%3D.webm'>
 </video>
 #+END_EXPORT
@@ -5295,7 +5295,7 @@ pouvoir appréhender par la connaissance; pour donner un sens à qqch.
 **** Back
 #+BEGIN_EXPORT html
 <video autoplay='' loop='' preload='metadata' class='noresize' muted='' style='width: 100%; display: inline-block; height: 100%;'>
-<source src='http://www.elix-lsf.fr/IMG/mp4/comprendre.mp4?1380120131'>
+<source src='https://www.elix-lsf.fr/IMG/mp4/comprendre.mp4?1380120131'>
 <source src='https://web.archive.org//web/20190203194119im_/http://www.elix-lsf.fr/IMG/mp4/comprendre.mp4?1380120131'>
 </video>
 #+END_EXPORT
@@ -5313,11 +5313,11 @@ bâtiment d'habitation. Édifice, bâtisse etc.
 **** Back
 #+BEGIN_EXPORT html
 <video autoplay='' loop='' preload='metadata' class='noresize' muted='' style='width: 100%; display: inline-block; height: 100%;'>
-<source src='http://www.elix-lsf.fr/IMG/mov/house.mov?1478338996'>
+<source src='https://www.elix-lsf.fr/IMG/mov/house.mov?1478338996'>
 <source src='https://web.archive.org//web/20190203200712im_/http://www.elix-lsf.fr/IMG/mov/house.mov?1478338996'>
 </video>
 <video autoplay='' loop='' preload='metadata' class='noresize' muted='' style='width: 100%; display: inline-block; height: 100%;'>
-<source src='http://www.elix-lsf.fr/IMG/mp4/maison-2.mp4?1406800363'>
+<source src='https://www.elix-lsf.fr/IMG/mp4/maison-2.mp4?1406800363'>
 <source src='https://web.archive.org//web/20190203200712im_/http://www.elix-lsf.fr/IMG/mp4/maison-2.mp4?1406800363'>
 </video>
 #+END_EXPORT
@@ -5343,7 +5343,7 @@ S'exprimer par la parole.
 *** Signer [lsf] (verbe)
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic (and reversed card)
-:SOURCE: http://www.sematos.eu/lsf-p-signer+%5BLSF%5D-5921-fr.html
+:SOURCE: https://www.sematos.eu/lsf-p-signer+%5BLSF%5D-5921-fr.html
 :ANKI_NOTE_ID: 1553975840711
 :END:
 
@@ -5354,7 +5354,7 @@ Signer [lsf] (verbe)
 **** Back
 #+BEGIN_EXPORT html
 <video autoplay='' loop='' preload='metadata' class='noresize' muted='' style='width: 100%; display: inline-block; height: 100%;'>
-<source src='http://static.sematos.eu/videos/lsf/webm/Z5hkaVslashIods%3D.webm'>
+<source src='https://static.sematos.eu/videos/lsf/webm/Z5hkaVslashIods%3D.webm'>
 <source src='https://web.archive.org//web/20190319133615im_/http://static.sematos.eu/videos/lsf/webm/Z5hkaVslashIods%3D.webm'>
 </video>
 #+END_EXPORT
@@ -5371,7 +5371,7 @@ représenter par le dessin.
 **** Back
 #+BEGIN_EXPORT html
 <video autoplay='' loop='' preload='metadata' class='noresize' muted='' style='width: 100%; display: inline-block; height: 100%;'>
-<source src='http://www.elix-lsf.fr/IMG/mp4/kcx9jqnmgign839sxbgx-encoded.mp4?1361389015'>
+<source src='https://www.elix-lsf.fr/IMG/mp4/kcx9jqnmgign839sxbgx-encoded.mp4?1361389015'>
 <source src='https://web.archive.org//web/20190318150508im_/http://www.elix-lsf.fr/IMG/mp4/kcx9jqnmgign839sxbgx-encoded.mp4?1361389015'>
 </video>
 #+END_EXPORT
@@ -5389,7 +5389,7 @@ identifier les caractères d'une écriture.
 **** Back
 #+BEGIN_EXPORT html
 <video autoplay='' loop='' preload='metadata' class='noresize' muted='' style='width: 100%; display: inline-block; height: 100%;'>
-<source src='http://www.elix-lsf.fr/IMG/mp4/lire_v_1_2.mp4?1354124802'>
+<source src='https://www.elix-lsf.fr/IMG/mp4/lire_v_1_2.mp4?1354124802'>
 <source src='https://web.archive.org//web/20190318150519im_/http://www.elix-lsf.fr/IMG/mp4/lire_v_1_2.mp4?1354124802'>
 </video>
 #+END_EXPORT
@@ -5407,11 +5407,11 @@ absorber (de la nourriture).
 **** Back
 #+BEGIN_EXPORT html
 <video autoplay='' loop='' preload='metadata' class='noresize' muted='' style='width: 100%; display: inline-block; height: 100%;'>
-<source src='http://www.elix-lsf.fr/IMG/mp4/manger_v_1_6.mp4?1540304613'>
+<source src='https://www.elix-lsf.fr/IMG/mp4/manger_v_1_6.mp4?1540304613'>
 <source src='https://web.archive.org//web/20190203201136im_/http://www.elix-lsf.fr/IMG/mp4/manger_v_1_6.mp4?1540304613'>
 </video>
 <video autoplay='' loop='' preload='metadata' class='noresize' muted='' style='width: 100%; display: inline-block; height: 100%;'>
-<source src='http://www.elix-lsf.fr/IMG/mp4/manger-2.mp4?1406800534'>
+<source src='https://www.elix-lsf.fr/IMG/mp4/manger-2.mp4?1406800534'>
 <source src='https://web.archive.org//web/20190203201136im_/http://www.elix-lsf.fr/IMG/mp4/manger-2.mp4?1406800534'>
 </video>
 #+END_EXPORT
@@ -5466,7 +5466,7 @@ se déplacer rapidement à pied, en faisant de grandes enjambées.
 **** Back
 #+BEGIN_EXPORT html
 <video autoplay='' loop='' preload='metadata' class='noresize' muted='' style='width: 100%; display: inline-block; height: 100%;'>
-<source src='http://www.elix-lsf.fr/IMG/mp4/courir_v_4_1-2.mp4?1381307056'>
+<source src='https://www.elix-lsf.fr/IMG/mp4/courir_v_4_1-2.mp4?1381307056'>
 <source src='https://web.archive.org//web/20190203201555im_/http://www.elix-lsf.fr/IMG/mp4/courir_v_4_1-2.mp4?1381307056'>
 </video>
 #+END_EXPORT
@@ -5484,7 +5484,7 @@ se transporter vers un lieu plus élevé que celui d'où l'on vient. Grimper, se
 **** Back
 #+BEGIN_EXPORT html
 <video autoplay='' loop='' preload='metadata' class='noresize' muted='' style='width: 100%; display: inline-block; height: 100%;'>
-<source src='http://www.elix-lsf.fr/IMG/mp4/monter1.mp4?1406815296'>
+<source src='https://www.elix-lsf.fr/IMG/mp4/monter1.mp4?1406815296'>
 <source src='https://web.archive.org//web/20190203201601im_/http://www.elix-lsf.fr/IMG/mp4/monter1.mp4?1406815296'>
 </video>
 #+END_EXPORT
@@ -5502,7 +5502,7 @@ aller de haut en bas.
 **** Back
 #+BEGIN_EXPORT html
 <video autoplay='' loop='' preload='metadata' class='noresize' muted='' style='width: 100%; display: inline-block; height: 100%;'>
-<source src='http://www.elix-lsf.fr/IMG/mp4/descendre_v_1_1.mp4?1381307907'>
+<source src='https://www.elix-lsf.fr/IMG/mp4/descendre_v_1_1.mp4?1381307907'>
 <source src='https://web.archive.org//web/20190203201613im_/http://www.elix-lsf.fr/IMG/mp4/descendre_v_1_1.mp4?1381307907'>
 </video>
 #+END_EXPORT
@@ -5520,7 +5520,7 @@ Ici (adv.)
 **** Back
 #+BEGIN_EXPORT html
 <video autoplay='' loop='' preload='metadata' class='noresize' muted='' style='width: 100%; display: inline-block; height: 100%;'>
-<source src='http://www.elix-lsf.fr/IMG/mp4/ici.mp4?1406811503'>
+<source src='https://www.elix-lsf.fr/IMG/mp4/ici.mp4?1406811503'>
 <source src='https://web.archive.org//web/20190203201622im_/http://www.elix-lsf.fr/IMG/mp4/ici.mp4?1406811503'>
 </video>
 #+END_EXPORT
@@ -5538,7 +5538,7 @@ en un lieu plus ou moins éloigné de celui où l'on se trouve.
 **** Back
 #+BEGIN_EXPORT html
 <video autoplay='' loop='' preload='metadata' class='noresize' muted='' style='width: 100%; display: inline-block; height: 100%;'>
-<source src='http://www.elix-lsf.fr/IMG/mp4/la-bas_adv_1_1.mp4?1426082624'>
+<source src='https://www.elix-lsf.fr/IMG/mp4/la-bas_adv_1_1.mp4?1426082624'>
 <source src='https://web.archive.org//web/20190203201624im_/http://www.elix-lsf.fr/IMG/mp4/la-bas_adv_1_1.mp4?1426082624'>
 </video>
 #+END_EXPORT
@@ -5630,7 +5630,7 @@ solide ayant une surface sphérique.
 **** Back
 #+BEGIN_EXPORT html
 <video autoplay='' loop='' preload='metadata' class='noresize' muted='' style='width: 100%; display: inline-block; height: 100%;'>
-<source src='http://www.elix-lsf.fr/IMG/mp4/sphere_nf_1_1.mp4?1350688346'>
+<source src='https://www.elix-lsf.fr/IMG/mp4/sphere_nf_1_1.mp4?1350688346'>
 <source src='https://web.archive.org//web/20190203203032im_/http://www.elix-lsf.fr/IMG/mp4/sphere_nf_1_1.mp4?1350688346'>
 </video>
 #+END_EXPORT
@@ -5648,7 +5648,7 @@ quadrilatère à quatre angles droits et quatre côtés égaux.
 **** Back
 #+BEGIN_EXPORT html
 <video autoplay='' loop='' preload='metadata' class='noresize' muted='' style='width: 100%; display: inline-block; height: 100%;'>
-<source src='http://www.elix-lsf.fr/IMG/mp4/carre_nm_1_1.mp4?1404400101'>
+<source src='https://www.elix-lsf.fr/IMG/mp4/carre_nm_1_1.mp4?1404400101'>
 <source src='https://web.archive.org//web/20190203203058im_/http://www.elix-lsf.fr/IMG/mp4/carre_nm_1_1.mp4?1404400101'>
 </video>
 #+END_EXPORT
@@ -5666,11 +5666,11 @@ solide formé de six faces carrées égales.
 **** Back
 #+BEGIN_EXPORT html
 <video autoplay='' loop='' preload='metadata' class='noresize' muted='' style='width: 100%; display: inline-block; height: 100%;'>
-<source src='http://www.elix-lsf.fr/IMG/mp4/cube_nm_1_2.mp4?1404400121'>
+<source src='https://www.elix-lsf.fr/IMG/mp4/cube_nm_1_2.mp4?1404400121'>
 <source src='https://web.archive.org//web/20190203203104im_/http://www.elix-lsf.fr/IMG/mp4/cube_nm_1_2.mp4?1404400121'>
 </video>
 <video autoplay='' loop='' preload='metadata' class='noresize' muted='' style='width: 100%; display: inline-block; height: 100%;'>
-<source src='http://www.elix-lsf.fr/IMG/mp4/cube_nm_1_1.mp4?1404400120'>
+<source src='https://www.elix-lsf.fr/IMG/mp4/cube_nm_1_1.mp4?1404400120'>
 <source src='https://web.archive.org//web/20190203203104im_/http://www.elix-lsf.fr/IMG/mp4/cube_nm_1_1.mp4?1404400120'>
 </video>
 #+END_EXPORT
@@ -5706,7 +5706,7 @@ emballage de forme cylindrique, en métal, fermé par un bouchon, et qui contien
 **** Back
 #+BEGIN_EXPORT html
 <video autoplay='' loop='' preload='metadata' class='noresize' muted='' style='width: 100%; display: inline-block; height: 100%;'>
-<source src='http://www.elix-lsf.fr/IMG/mp4/tube_nm_1_1.mp4?1350688390'>
+<source src='https://www.elix-lsf.fr/IMG/mp4/tube_nm_1_1.mp4?1350688390'>
 <source src='https://web.archive.org//web/20190203203126im_/http://www.elix-lsf.fr/IMG/mp4/tube_nm_1_1.mp4?1350688390'>
 </video>
 #+END_EXPORT
@@ -5724,7 +5724,7 @@ figure géométrique polygonale à trois cotés.
 **** Back
 #+BEGIN_EXPORT html
 <video autoplay='' loop='' preload='metadata' class='noresize' muted='' style='width: 100%; display: inline-block; height: 100%;'>
-<source src='http://www.elix-lsf.fr/IMG/mp4/triangle_nm_1_1.mp4?1350688385'>
+<source src='https://www.elix-lsf.fr/IMG/mp4/triangle_nm_1_1.mp4?1350688385'>
 <source src='https://web.archive.org//web/20190203203131im_/http://www.elix-lsf.fr/IMG/mp4/triangle_nm_1_1.mp4?1350688385'>
 </video>
 #+END_EXPORT
@@ -5742,7 +5742,7 @@ polyèdre qui a pour base un polygone quelconque et pour faces latérales des tr
 **** Back
 #+BEGIN_EXPORT html
 <video autoplay='' loop='' preload='metadata' class='noresize' muted='' style='width: 100%; display: inline-block; height: 100%;'>
-<source src='http://www.elix-lsf.fr/IMG/mp4/pyramide_nf_1_1.mp4?1367842439'>
+<source src='https://www.elix-lsf.fr/IMG/mp4/pyramide_nf_1_1.mp4?1367842439'>
 <source src='https://web.archive.org//web/20190203203135im_/http://www.elix-lsf.fr/IMG/mp4/pyramide_nf_1_1.mp4?1367842439'>
 </video>
 #+END_EXPORT
@@ -5778,7 +5778,7 @@ qui m'appartient, qui m'appartiennent (ex. c'est ma maison).
 **** Back
 #+BEGIN_EXPORT html
 <video autoplay='' loop='' preload='metadata' class='noresize' muted='' style='width: 100%; display: inline-block; height: 100%;'>
-<source src='http://www.elix-lsf.fr/IMG/mov/video_du_18-09-2015_a_13.01_4.mov?1442574459'>
+<source src='https://www.elix-lsf.fr/IMG/mov/video_du_18-09-2015_a_13.01_4.mov?1442574459'>
 <source src='https://web.archive.org//web/20190208152242im_/http://www.elix-lsf.fr/IMG/mov/video_du_18-09-2015_a_13.01_4.mov?1442574459'>
 </video>
 #+END_EXPORT
@@ -5796,7 +5796,7 @@ qui est à toi.
 **** Back
 #+BEGIN_EXPORT html
 <video autoplay='' loop='' preload='metadata' class='noresize' muted='' style='width: 100%; display: inline-block; height: 100%;'>
-<source src='http://www.elix-lsf.fr/IMG/mp4/ton_adj_1_1.mp4?1426082778'>
+<source src='https://www.elix-lsf.fr/IMG/mp4/ton_adj_1_1.mp4?1426082778'>
 <source src='https://web.archive.org//web/20190208152245im_/http://www.elix-lsf.fr/IMG/mp4/ton_adj_1_1.mp4?1426082778'>
 </video>
 #+END_EXPORT
@@ -5814,11 +5814,11 @@ qui lui appartient (son, sa), qui lui appartiennent (ses) (à lui, à elle) (ex.
 **** Back
 #+BEGIN_EXPORT html
 <video autoplay='' loop='' preload='metadata' class='noresize' muted='' style='width: 100%; display: inline-block; height: 100%;'>
-<source src='http://www.elix-lsf.fr/IMG/mov/video_du_18-09-2015_a_13.01-2.mov?1442574571'>
+<source src='https://www.elix-lsf.fr/IMG/mov/video_du_18-09-2015_a_13.01-2.mov?1442574571'>
 <source src='https://web.archive.org//web/20190208154403im_/http://www.elix-lsf.fr/IMG/mov/video_du_18-09-2015_a_13.01-2.mov?1442574571'>
 </video>
 <video autoplay='' loop='' preload='metadata' class='noresize' muted='' style='width: 100%; display: inline-block; height: 100%;'>
-<source src='http://www.elix-lsf.fr/IMG/mp4/son_det_1_1.mp4?1350688339'>
+<source src='https://www.elix-lsf.fr/IMG/mp4/son_det_1_1.mp4?1350688339'>
 <source src='https://web.archive.org//web/20190208154403im_/http://www.elix-lsf.fr/IMG/mp4/son_det_1_1.mp4?1350688339'>
 </video>
 #+END_EXPORT
@@ -5894,11 +5894,11 @@ spécialiste de l'orthophonie.
 **** Back
 #+BEGIN_EXPORT html
 <video autoplay='' loop='' preload='metadata' class='noresize' muted='' style='width: 100%; display: inline-block; height: 100%;'>
-<source src='http://www.elix-lsf.fr/IMG/mp4/orthophoniste_nm_1_1.mp4?1354124691'>
+<source src='https://www.elix-lsf.fr/IMG/mp4/orthophoniste_nm_1_1.mp4?1354124691'>
 <source src='https://web.archive.org//web/20190208160514im_/http://www.elix-lsf.fr/IMG/mp4/orthophoniste_nm_1_1.mp4?1354124691'>
 </video>
 <video autoplay='' loop='' preload='metadata' class='noresize' muted='' style='width: 100%; display: inline-block; height: 100%;'>
-<source src='http://www.elix-lsf.fr/IMG/mp4/orthophoniste_nm_1_2_.mp4?1354124691'>
+<source src='https://www.elix-lsf.fr/IMG/mp4/orthophoniste_nm_1_2_.mp4?1354124691'>
 <source src='https://web.archive.org//web/20190208160514im_/http://www.elix-lsf.fr/IMG/mp4/orthophoniste_nm_1_2_.mp4?1354124691'>
 </video>
 #+END_EXPORT
@@ -5916,11 +5916,11 @@ personne qui recherche l'expression de la beauté par la pratique d'une techniqu
 **** Back
 #+BEGIN_EXPORT html
 <video autoplay='' loop='' preload='metadata' class='noresize' muted='' style='width: 100%; display: inline-block; height: 100%;'>
-<source src='http://www.elix-lsf.fr/IMG/mp4/00870-2.mp4?1380293151'>
+<source src='https://www.elix-lsf.fr/IMG/mp4/00870-2.mp4?1380293151'>
 <source src='https://web.archive.org//web/20190208160519im_/http://www.elix-lsf.fr/IMG/mp4/00870-2.mp4?1380293151'>
 </video>
 <video autoplay='' loop='' preload='metadata' class='noresize' muted='' style='width: 100%; display: inline-block; height: 100%;'>
-<source src='http://www.elix-lsf.fr/IMG/mp4/artiste_nm_1_1.mp4?1367840886'>
+<source src='https://www.elix-lsf.fr/IMG/mp4/artiste_nm_1_1.mp4?1367840886'>
 <source src='https://web.archive.org//web/20190208160519im_/http://www.elix-lsf.fr/IMG/mp4/artiste_nm_1_1.mp4?1367840886'>
 </video>
 #+END_EXPORT
@@ -5938,7 +5938,7 @@ personne qui fait du commerce.
 **** Back
 #+BEGIN_EXPORT html
 <video autoplay='' loop='' preload='metadata' class='noresize' muted='' style='width: 100%; display: inline-block; height: 100%;'>
-<source src='http://www.elix-lsf.fr/IMG/mp4/video471.mp4?1377032038'>
+<source src='https://www.elix-lsf.fr/IMG/mp4/video471.mp4?1377032038'>
 <source src='https://web.archive.org//web/20190208160524im_/http://www.elix-lsf.fr/IMG/mp4/video471.mp4?1377032038'>
 </video>
 #+END_EXPORT
@@ -5956,7 +5956,7 @@ traducteur oral entre deux ou plusieurs personnes ne parlant pas la même langue
 **** Back
 #+BEGIN_EXPORT html
 <video autoplay='' loop='' preload='metadata' class='noresize' muted='' style='width: 100%; display: inline-block; height: 100%;'>
-<source src='http://www.elix-lsf.fr/IMG/mp4/interprete_n_2_1.mp4?1350689679'>
+<source src='https://www.elix-lsf.fr/IMG/mp4/interprete_n_2_1.mp4?1350689679'>
 <source src='https://web.archive.org//web/20190208160526im_/http://www.elix-lsf.fr/IMG/mp4/interprete_n_2_1.mp4?1350689679'>
 </video>
 #+END_EXPORT
@@ -5974,8 +5974,8 @@ de la même manière.
 **** Back
 #+BEGIN_EXPORT html
 <video autoplay='' loop='' preload='metadata' class='noresize' muted='' style='width: 100%; display: inline-block; height: 100%;'>
-<source src='http://www.elix-lsf.fr/IMG/mp4/pareil_adv_1_1.mp4?1350688028'>
-<source src='http://www.elix-lsf.fr/IMG/mp4/pareil_adv_1_1.mp4?1350688028'>
+<source src='https://www.elix-lsf.fr/IMG/mp4/pareil_adv_1_1.mp4?1350688028'>
+<source src='https://web.archive.org/web/20210716101740/https://www.elix-lsf.fr/IMG/mp4/pareil_adv_1_1.mp4?1350688028'>
 </video>
 #+END_EXPORT
 
@@ -5992,7 +5992,7 @@ assister à.
 **** Back
 #+BEGIN_EXPORT html
 <video autoplay='' loop='' preload='metadata' class='noresize' muted='' style='width: 100%; display: inline-block; height: 100%;'>
-<source src='http://www.elix-lsf.fr/IMG/mp4/voir_v_2_1.mp4?1394617378'>
+<source src='https://www.elix-lsf.fr/IMG/mp4/voir_v_2_1.mp4?1394617378'>
 <source src='https://web.archive.org//web/20190214205011im_/http://www.elix-lsf.fr/IMG/mp4/voir_v_2_1.mp4?1394617378'>
 </video>
 #+END_EXPORT
@@ -6028,11 +6028,11 @@ boisson fermentée à base d'orge et de houblon.
 **** Back
 #+BEGIN_EXPORT html
 <video autoplay='' loop='' preload='metadata' class='noresize' muted='' style='width: 100%; display: inline-block; height: 100%;'>
-<source src='http://www.elix-lsf.fr/IMG/mp4/biere_nf_1_6.mp4?1540304553'>
+<source src='https://www.elix-lsf.fr/IMG/mp4/biere_nf_1_6.mp4?1540304553'>
 <source src='https://web.archive.org//web/20190318143930im_/http://www.elix-lsf.fr/IMG/mp4/biere_nf_1_6.mp4?1540304553'>
 </video>
 <video autoplay='' loop='' preload='metadata' class='noresize' muted='' style='width: 100%; display: inline-block; height: 100%;'>
-<source src='http://www.elix-lsf.fr/IMG/mp4/biere_nf_1_1.mp4?1367841721'>
+<source src='https://www.elix-lsf.fr/IMG/mp4/biere_nf_1_1.mp4?1367841721'>
 <source src='https://web.archive.org//web/20190318143930im_/http://www.elix-lsf.fr/IMG/mp4/biere_nf_1_1.mp4?1367841721'>
 </video>
 #+END_EXPORT
@@ -6088,7 +6088,7 @@ résider, demeurer dans une ville, un pays.
 **** Back
 #+BEGIN_EXPORT html
 <video autoplay='' loop='' preload='metadata' class='noresize' muted='' style='width: 100%; display: inline-block; height: 100%;'>
-<source src='http://www.elix-lsf.fr/IMG/mp4/habiter_v_1_1.mp4?1350689644'>
+<source src='https://www.elix-lsf.fr/IMG/mp4/habiter_v_1_1.mp4?1350689644'>
 <source src='https://web.archive.org//web/20190318150523im_/http://www.elix-lsf.fr/IMG/mp4/habiter_v_1_1.mp4?1350689644'>
 </video>
 #+END_EXPORT
@@ -6114,7 +6114,7 @@ Objet constitué d'assemblage d'un grand nombres de feuilles.
 *** Trouver (verbe)
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic (and reversed card)
-:SOURCE: http://www.sematos.eu/lsf-p-trouver-5974.html
+:SOURCE: https://www.sematos.eu/lsf-p-trouver-5974.html
 :ANKI_NOTE_ID: 1553975899712
 :END:
 
@@ -6125,7 +6125,7 @@ Trouver (verbe)
 **** Back
 #+BEGIN_EXPORT html
 <video autoplay='' loop='' preload='metadata' class='noresize' muted='' style='width: 100%; display: inline-block; height: 100%;'>
-<source src='http://static.sematos.eu/videos/lsf/webm/Z5hpa1slashIods%3D.webm'>
+<source src='https://static.sematos.eu/videos/lsf/webm/Z5hpa1slashIods%3D.webm'>
 <source src='https://web.archive.org//web/20190319132733im_/http://static.sematos.eu/videos/lsf/webm/Z5hpa1slashIods%3D.webm'>
 </video>
 #+END_EXPORT
@@ -6133,7 +6133,7 @@ Trouver (verbe)
 *** Attendre (v.)
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic (and reversed card)
-:SOURCE: http://www.elix-lsf.fr/spip.php?page=signes&id_article=133086&lang=fr
+:SOURCE: https://www.elix-lsf.fr/spip.php?page=signes&id_article=133086&lang=fr
 :ANKI_NOTE_ID: 1553975900713
 :END:
 
@@ -6144,7 +6144,7 @@ rester dans un lieu, un état, jusqu'à ce que survienne un événement précis.
 **** Back
 #+BEGIN_EXPORT html
 <video autoplay='' loop='' preload='metadata' class='noresize' muted='' style='width: 100%; display: inline-block; height: 100%;'>
-<source src='http://www.elix-lsf.fr/IMG/mp4/attendre_v_1_1.mp4?1367840894'>
+<source src='https://www.elix-lsf.fr/IMG/mp4/attendre_v_1_1.mp4?1367840894'>
 <source src='https://web.archive.org//web/20190319173355im_/http://www.elix-lsf.fr/IMG/mp4/attendre_v_1_1.mp4?1367840894'>
 </video>
 #+END_EXPORT
@@ -6152,7 +6152,7 @@ rester dans un lieu, un état, jusqu'à ce que survienne un événement précis.
 *** Bon (n.m.)
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic (and reversed card)
-:SOURCE: http://www.elix-lsf.fr/spip.php?page=signes&id_article=137505&lang=fr
+:SOURCE: https://www.elix-lsf.fr/spip.php?page=signes&id_article=137505&lang=fr
 :ANKI_NOTE_ID: 1553975901721
 :END:
 
@@ -6163,7 +6163,7 @@ ce qui est bon.
 **** Back
 #+BEGIN_EXPORT html
 <video autoplay='' loop='' preload='metadata' class='noresize' muted='' style='width: 100%; display: inline-block; height: 100%;'>
-<source src='http://www.elix-lsf.fr/IMG/mp4/bon_nm_2_1.mp4?1367842061'>
+<source src='https://www.elix-lsf.fr/IMG/mp4/bon_nm_2_1.mp4?1367842061'>
 <source src='https://web.archive.org//web/20190319173612im_/http://www.elix-lsf.fr/IMG/mp4/bon_nm_2_1.mp4?1367842061'>
 </video>
 #+END_EXPORT
